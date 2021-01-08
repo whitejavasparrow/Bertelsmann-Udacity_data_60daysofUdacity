@@ -23,7 +23,7 @@ I would also like to thank and encourage @Ma Yi @Jessica.Etoh @Candy @Esther Kam
 ### D7 (2021/01/03)
 Read eternal articles on the topic of estimation in inferential statistics; trying with data by watching L1 of creating an analytical dataset and learned about how different types of data can be imported.
 </br></br>
-Today’s encouragement goes with @Ma Yi @Ayush Rathi @Quyen Nguyen @Carmen K. Ma @Prachi Gupta @Mark B. @Clare-Joyce @Serkan KAYA @ehiz rendezvouz @Amina and @Esma for a happy birthday with peace and joyfulness, @Jonathan Papworth for the study jam initiative!
+Today’s encouragement goes with @Ma Yi @Ayush Rathi @Quyen Nguyen @Carmen K. Ma @Prachi Gupta @Clare-Joyce @Serkan KAYA @ehiz rendezvouz @Amina and @Esma for a happy birthday with peace and joyfulness, @Jonathan Papworth for the study jam initiative!
 </br></br>
 Please kindly refer to this post and fill in preferred time :slightly_smiling_face:</br>
 https://bertelsmann-datatrack.slack.com/archives/C01FZHATB52/p1609619354297100
@@ -33,3 +33,19 @@ Data cleaning! Lesson learned: “clean data are clean; dirty data are dirty in 
 
 ### D9 (2021/01/05)
 hypothesis testing in inferential statistics!
+
+### D10 (2021/01/06)
+- Trying to run R code in Jupyter notebook by following the tutorial shared in #sg_r_alteryx
+- Familarize myself more with concepts like PCA and t-SNE and how to interpret variance.
+</br></br>
+Encouraing @MrLeyva @ehiz rendezvouz @Ayush Rathi @Samuel Yeboah Boateng @Serkan KAYA @Mark B. @Esma @Məhəmməd Şıxıyev
+
+### D11 (2021/01/07)
+Hypothesis testing in Inferential Statistics. Learned about one/two-tailed tests, and statistical decision error.
+Today I would like to encourage @Jessica.Etoh, @Jesse Wallace, @Jessica Ch'ng, @Jessica Rocha, @Jessica Linneweber, @Jessica Tan :grin:
+
+### D12 (2021/01/08)
+Had the first study group meeting in #sg_southeast_asia, also discuss how we started to learn R with fellow scholars, and joined the networking event in #introduction, so today's been great! :smile: Tomorrow I plan to resume studying on Inferential Statistics and Creating an Analytical Dataset.
+
+Today I would like to encourage some faces I met @Vedanth Baliga @Clarence Lam @Simply Sarah @Jonathan Papworth @Esma @Elizabeth Ogbonnaya @Abhishek Tiwari and those who share a bit of their culture and learning with me ... :)
+Also @Dongyeun Kum @Subhashini @Mark B. @Ma Yi @Məhəmməd Şıxıyev @Ayush Rathi to keep learning!
