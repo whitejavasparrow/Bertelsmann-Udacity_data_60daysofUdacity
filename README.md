@@ -46,6 +46,10 @@ Today I would like to encourage @Jessica.Etoh, @Jesse Wallace, @Jessica Ch'ng, @
 
 ### D12 (2021/01/08)
 Had the first study group meeting in #sg_southeast_asia, also discuss how we started to learn R with fellow scholars, and joined the networking event in #introduction, so today's been great! :smile: Tomorrow I plan to resume studying on Inferential Statistics and Creating an Analytical Dataset.
+Today I would like to encourage some faces I met @Vedanth Baliga @Clarence Lam @Simply Sarah @Jonathan Papworth @Esma @Jim Lorica @Elizabeth Ogbonnaya @Abhishek Tiwari @Atif @Cindy and those who shared a bit of their culture and learning with me ... :)
+Also @Dongyeun Kum @Subhashini M @Mark B. @Ma Yi @Mahammad Shikhiyev @Ayush Rathi to keep learning!
 
-Today I would like to encourage some faces I met @Vedanth Baliga @Clarence Lam @Simply Sarah @Jonathan Papworth @Esma @Elizabeth Ogbonnaya @Abhishek Tiwari and those who share a bit of their culture and learning with me ... :)
-Also @Dongyeun Kum @Subhashini @Mark B. @Ma Yi @Məhəmməd Şıxıyev @Ayush Rathi to keep learning!
+### D13 (2021/01/09)
+Data issues and data formatting in Alteryx. In addition to deletion, missing values can be imputed, and outliners truncated. Will also learn more about how to transpose and cross tab! 
+
+Today's encouragement goes to @Candy, I hope it's not too late to say thank you to you and your colleagues! Also @Anita Igbine @Claude @Rebeca Lopes @Esma @Rosana Santos @Ma Yi @Temilade Lizzy. Keep going!
