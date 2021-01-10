@@ -35,7 +35,7 @@ Data cleaning! Lesson learned: “clean data are clean; dirty data are dirty in 
 hypothesis testing in inferential statistics!
 
 ### D10 (2021/01/06)
-- Trying to run R code in Jupyter notebook by following the tutorial shared in #sg_r_alteryx
+- Trying to run R code in Jupyter notebook by following the tutorial shared by @MrLeyva and @iyiola_daniel in #sg_r_alteryx; Familiarize myself more with concepts of dimensionality reduction for word embeddings ...
 - Familarize myself more with concepts like PCA and t-SNE and how to interpret variance.
 </br></br>
 Encouraing @MrLeyva @ehiz rendezvouz @Ayush Rathi @Samuel Yeboah Boateng @Serkan KAYA @Mark B. @Esma @Məhəmməd Şıxıyev
@@ -53,3 +53,8 @@ Also @Dongyeun Kum @Subhashini M @Mark B. @Ma Yi @Mahammad Shikhiyev @Ayush Rath
 Data issues and data formatting in Alteryx. In addition to deletion, missing values can be imputed, and outliners truncated. Will also learn more about how to transpose and cross tab! 
 
 Today's encouragement goes to @Candy, I hope it's not too late to say thank you to you and your colleagues! Also @Anita Igbine @Claude @Rebeca Lopes @Esma @Rosana Santos @Ma Yi @Temilade Lizzy. Keep going!
+
+### D14 (2021/01/10)
+Had a nice meet-up with #sg_r_alteryx. :) Continued data blending in Alteryx, learned about how to apply a waterfall approach to combine data from different sources. Hope to read articles about how to have a balanced dataset during the data blending process.
+
+Encouraging @ehiz rendezvouz @MrLeyva @Ma Yi @Mark B. @birozso @Vedanth Baliga @Edgar Chacon @Esma @Subhashini M @Esther Kamau @Ayush Rathi @Prachi Gupta @Rebeca Lopes @Mahammad Shikhiyev @Dongyeun Kum, and many more who I didn't manage to mention, for this data journey!
