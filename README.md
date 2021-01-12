@@ -58,3 +58,8 @@ Today's encouragement goes to @Candy, I hope it's not too late to say thank you 
 Had a nice meet-up with #sg_r_alteryx. :) Continued data blending in Alteryx, learned about how to apply a waterfall approach to combine data from different sources. Hope to read articles about how to have a balanced dataset during the data blending process.
 
 Encouraging @ehiz rendezvouz @MrLeyva @Ma Yi @Mark B. @birozso @Vedanth Baliga @Edgar Chacon @Esma @Subhashini M @Esther Kamau @Ayush Rathi @Prachi Gupta @Rebeca Lopes @Mahammad Shikhiyev @Dongyeun Kum, and many more who I didn't manage to mention, for this data journey!
+### D15 (2021/01/11)
+Continued data blending in Alteryx. Tomorrow I'll revise notes and learn more! I'd like to encourage @Esther Kamau @Wamiru @Oluwatosin @Carlo Ertola to keep up the good work!
+
+### D16 (2021/01/12)
+t-Test, Part I in Inferential Statistics!
