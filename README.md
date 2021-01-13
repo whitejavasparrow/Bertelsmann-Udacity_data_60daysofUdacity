@@ -63,3 +63,14 @@ Continued data blending in Alteryx. Tomorrow I'll revise notes and learn more! I
 
 ### D16 (2021/01/12)
 t-Test, Part I in Inferential Statistics!
+
+---
+## Study group sessions
+_**past sessions**_
+- Dec. 22, 2020 Tue. | 23:00 GMT+8 (#sg_accountability_grp)
+![](img/20201208-sg_accoutability_grp-1st meet-up.png)
+- Dec. 29, 2020 Tue. | 23:00 GMT+8 (#sg_accountability_grp)
+- Jan. 8, 2021 Fri. | 20:00 GMT+8 (#sg_southeast_asia)
+
+_**upcoming sessions**_
+- Jan. 16, 2021 Sat. | 23:00 GMT+8 (#sg_accountability_grp)
