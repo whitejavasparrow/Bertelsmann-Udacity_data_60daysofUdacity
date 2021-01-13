@@ -62,15 +62,27 @@ Encouraging @ehiz rendezvouz @MrLeyva @Ma Yi @Mark B. @birozso @Vedanth Baliga @
 Continued data blending in Alteryx. Tomorrow I'll revise notes and learn more! I'd like to encourage @Esther Kamau @Wamiru @Oluwatosin @Carlo Ertola to keep up the good work!
 
 ### D16 (2021/01/12)
-t-Test, Part I in Inferential Statistics!
+t-Test, Part 1 in Inferential Statistics!
+
+### D17 (2021/01/13)
+- t-Test, Part 2/3 in Inferential Statistics!
+- finally learning SQL, with SELECT. Thank you @Vin for sharing your learning in #60daysofudacity
+- planned to do project for L5 this weekend.
+Today I'd like to encourage @Esma @Jonathan Papworth @Mark B. @MrLeyva @Ayush Rathi @Jim Lorica @Don Angeles @Edgar Chacon @James @Oluwatosin!
 
 ---
-## Study group sessions
+## Online meeting sessions
 _**past sessions**_
-- Dec. 22, 2020 Tue. | 23:00 GMT+8 (#sg_accountability_grp)
-![](img/20201208-sg_accoutability_grp-1st meet-up.png)
-- Dec. 29, 2020 Tue. | 23:00 GMT+8 (#sg_accountability_grp)
-- Jan. 8, 2021 Fri. | 20:00 GMT+8 (#sg_southeast_asia)
+- [#sg_accountability_grp]() Dec. 08, 2020 Tue. | 23:30 GMT+8 
+<br/>
+<img src="img/20201208 sg_accoutability_grp 1st meet-up.jpg">
+
+- [#sg_accountability_grp]() Dec. 22, 2020 Tue. | 23:30 GMT+8
+- [#sg_southeast_asia]() Jan. 8, 2021 Fri. | 20:00 GMT+8
+- [#introduction]() Jan. 8, 2021 Fri. | 22:00 GTM+8
+- [#sg_r_alteryx]() Jan. 10, 2021 Sun. | 6:00 GTM+8
 
 _**upcoming sessions**_
-- Jan. 16, 2021 Sat. | 23:00 GMT+8 (#sg_accountability_grp)
+- [#sg_southeast_asia]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
+- [#sg_accountability_grp]() Jan. 16, 2021 Sat. | 23:30 GMT+8
+- [#sg_r_alteryx]() Jan. 16, 2021 Sun. | 6:00 GTM+8
