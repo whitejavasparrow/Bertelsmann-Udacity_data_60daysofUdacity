@@ -114,6 +114,9 @@ https://josecamachocollados.medium.com/how-to-represent-meaning-in-natural-langu
 
 Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy :blush:
 
+## D23 (2021/01/19)
+- Correlation in Inferential Statistics.
+
 ---
 ## Online meeting sessions
 _**past sessions**_
