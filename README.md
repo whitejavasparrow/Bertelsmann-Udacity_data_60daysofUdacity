@@ -70,6 +70,50 @@ t-Test, Part 1 in Inferential Statistics!
 - planned to do project for L5 this weekend.
 Today I'd like to encourage @Esma @Jonathan Papworth @Mark B. @MrLeyva @Ayush Rathi @Jim Lorica @Don Angeles @Edgar Chacon @James @Oluwatosin!
 
+### D18 (2021/01/14)
+- t-Test, Part 3/3 in Inferential Statistics!
+- learning SQL filtering.
+Encouraging @Cindy @Esma @Jonathan Papworth @Mark B. @MrLeyva @Ayush Rathi @Jim Lorica @Carmen K. Ma @Don Angeles @Edgar Chacon @James @Oluwatosin @Clare-Joyce @Vedanth Baliga @Simply Sarah @Jonathan Papworth @Esma @Jim Lorica @Elizabeth Ogbonnaya @Abhishek Tiwari @Atif @Cindy @Anita Igbine @Claude @Rebeca Lopes @Rosana Santos @Ma Yi @Temilade Lizzy @Uchechukwu Azubuko @Esther Kamau @Quyen Nguyen @Clarence Lam @Dongyeun Kum @ehiz rendezvouz @iyiola_daniel @Mahammad Shikhiyev
+
+Date is announced  for the :alphabet-white-s::alphabet-white-t::alphabet-white-u::alphabet-white-d::alphabet-white-y:  :alphabet-white-j::alphabet-white-a::alphabet-white-m:.
+Saturday, January 23rd at 12AM PST I 8AM GMT I 1:30PM IST
+Theme song is Imagine Dragons - Believer, here's the link to that: https://www.youtube.com/watch?v=7wtfhZwyrcc
+Dont forget is for the community by the community, have you thought about hosting:
+Webinar (could be in the style of Ted Talks)
+Workshops Python, Alteryx R, Statistics
+Technical AMA (s)
+Then head over to the :dancing_penguin_1: Study Jam Volunteer Form, deadline Thursday 21st
+
+## D19 (2021/01/15)
+- One-Way ANOVA in Inferential Statistics. Now there are z-table, t-table, and f-table!
+- Aggregate functions in SQL
+
+## D20 (2021/01/16)
+- attended #sg_southeast_asia+#sg_learn_together workshop on Pandas by @Vedanth Baliga :thank_you:
+- attended #sg_accountability_grp study session on Descriptive Statistics by @Esma and a bit by me.
+- being excited about the upcoming :alphabet-white-s::alphabet-white-t::alphabet-white-u::alphabet-white-d::alphabet-white-y:  :alphabet-white-j::alphabet-white-a::alphabet-white-m:! :blob-sun:
+
+Encouraging @Prachi Gupta @Vin @birozso @Quyen Nguyen @Nickodemus to keep it up during the data journey! Have a nice weekend, everyone!
+
+## D21 (2021/01/17)
+- Attended #sg_r_alteryx study session to learn more about regression with different datasets.
+- Since the final parts of Inferential Statistics are regression and correlation, I decided to read articles on these terms, especially along with association because association measures are a way to find the strength of collocations in linguistics.
+https://www.sketchengine.eu/my_keywords/logdice/
+- Feeling nervous and excited about the Study Jam :mantelpiece_clock: :raised_hands:!
+Encouraging @Temilade Lizzy @MrLeyva @Mark B. @iyiola_daniel @Oluwatosin @Esma @Simon U @Shrey Gupta @Esther Kamau @Jim Lorica @Cindy @khanadnanxyz @Vedanth Baliga @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi :blush:
+
+
+Thank you:
+
+@Vedanth Baliga @birozso @MrLeyva @Murat @Rebeca Lopes @Samuel Yeboah Boateng @Mark B. @Esma @birozso @Ebinbin Ajagun @ehiz rendezvouz @Abhishek Tiwari @Kachukwu @Shikati @Ma Yi @Esther Kamau @Wamiru @Jonathan Papworth @Ayush Rathi @James @James @Subhashini M @Mahammad Shikhiyev @Dongyeun Kum @Oluwatosin @Edgar Chacon @Linda Reckinger @iyiola_daniel @Temilade Lizzy
+
+## D22 (2021/01/18)
+- Sorting and grouping in SQL.
+- Reading article on contextualized word embeddings by authors who coined the term "meaning conflation deficiency."
+https://josecamachocollados.medium.com/how-to-represent-meaning-in-natural-language-processing-word-sense-and-contextualized-embeddings-bbe31bdab84a
+
+Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy :blush:
+
 ---
 ## Online meeting sessions
 _**past sessions**_
