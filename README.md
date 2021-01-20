@@ -117,6 +117,11 @@ Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhi
 ## D23 (2021/01/19)
 - Correlation in Inferential Statistics.
 
+## D24 (2021/01/20)
+- Regression in Inferential Statistics, still ongoing. :)
+- Upcoming ... STUDY JAM! Annoucements are in #general_discussion, and volunteer form is here -> You'd like to contact @Jonathon Papworth and @Esma as well! 
+
+Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy @Peace Peter @Rebeca Lopes :blush:
 ---
 ## Online meeting sessions
 _**past sessions**_
