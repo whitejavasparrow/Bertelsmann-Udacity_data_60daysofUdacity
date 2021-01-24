@@ -122,6 +122,16 @@ Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhi
 - Upcoming ... STUDY JAM! Annoucements are in #general_discussion, and volunteer form is here -> You'd like to contact @Jonathon Papworth and @Esma as well! 
 
 Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy @Peace Peter @Rebeca Lopes :blush:
+
+## D25 (2021/01/21)
+- Regression in Inferential Statistics, completed. :)
+- Getting ready for ... the STUDY JAM!
+
+## D26 (2021/01/23)
+- χ^2 Tests in Inferential Statistics.
+- Today is the study jam! The :alphabet-white-s:study :alphabet-white-j:am is :alphabet-yellow-t:odayyy!!! :blob-sun:
+Encouraging @Jonathan Papworth @Esma @birozso @David Berumen @Prachi Gupta @Vin @Jim Lorica @Don Angeles @Ankita Ghosh @Rachel_Kam @Oluwatosin @ehiz rendezvouz @Abhishek Tiwari @Ma Yi @Vedanth Baliga @MrLeyva @Mark B. @Temilade Lizzy @iyiola_daniel and everyone for this beautiful day! :pikachu_hi: 
+
 ---
 ## Online meeting sessions
 _**past sessions**_
