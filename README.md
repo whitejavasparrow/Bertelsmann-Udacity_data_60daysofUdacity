@@ -115,13 +115,13 @@ https://josecamachocollados.medium.com/how-to-represent-meaning-in-natural-langu
 Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy :blush:
 
 ## D23 (2021/01/19)
-- Correlation in Inferential Statistics.
+- Correlation in Inferential Statistics!
 
 ## D24 (2021/01/20)
 - Regression in Inferential Statistics, still ongoing. :)
-- Upcoming ... STUDY JAM! Annoucements are in #general_discussion, and volunteer form is here -> You'd like to contact @Jonathon Papworth and @Esma as well! 
+- Upcoming ... STUDY JAM! Excited about more details from @Jonathan Papworth and @Esma's latest announcements, and volunteer form is here :pikachu_hi:!
 
-Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy @Peace Peter @Rebeca Lopes :blush:
+Encouraging @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhiyev @Oluwatosin @Mohammed Alazaizi @Subhashini M @Esther Kamau @Jim Lorica @Vedanth Baliga @Ashish Kumar Panigrahy @Nickodemus @Agni @Jessica.Etoh @ehiz rendezvouz @Ayush Rathi @Ma Yi @birozso @Cindy @Peace Peters @Rebeca Lopes. Happy mid-week!
 
 ## D25 (2021/01/21)
 - Regression in Inferential Statistics, completed. :)
@@ -130,8 +130,19 @@ Encouraging @Esma @Prachi Gupta @MrLeyva @Mark B. @Dongyeun Kum @Mahammad Shikhi
 ## D26 (2021/01/23)
 - χ^2 Tests in Inferential Statistics.
 - Today is the study jam! The :alphabet-white-s:study :alphabet-white-j:am is :alphabet-yellow-t:odayyy!!! :blob-sun:
-Encouraging @Jonathan Papworth @Esma @birozso @David Berumen @Prachi Gupta @Vin @Jim Lorica @Don Angeles @Ankita Ghosh @Rachel_Kam @Oluwatosin @ehiz rendezvouz @Abhishek Tiwari @Ma Yi @Vedanth Baliga @MrLeyva @Mark B. @Temilade Lizzy @iyiola_daniel and everyone for this beautiful day! :pikachu_hi: 
 
+Encouraging @Jonathan Papworth @Esma @birozso @David Berumen @Prachi Gupta @Vin @Jim Lorica @Don Angeles @Ankita Ghosh @Rachel_Kam @Oluwatosin @ehiz rendezvouz @Ayush Rathi @Abhishek Tiwari @Ma Yi @Vedanth Baliga @MrLeyva @Mark B. @Temilade Lizzy @iyiola_daniel and everyone for this beautiful day! :pikachu_hi:
+
+## D27 (2021/01/24)
+Study jam! Attended keynotes, alumni AMA sessions, and workshops to learn more about Alteryx, Tableau, Python, R, ... data workflow!
+
+## D28 (2021/01/25)
+- Thank you for 
+@Jonathan Papworth @Esma @birozso @David Berumen @Rachel_Kam @Ankita Ghosh @Gurpreet Kaur @Prachi Gupta @Jim Lorica :study_jam_badge:, also @Vedanth Baliga for a timely help 
+
+thank for study jam: @Serkan KAYA @Ebinbin Ajagun @Agni 
+
+@Rana Hendawi @Samuel Yeboah Boateng @Ivan Martinovic @ehiz rendezvouz @Christian @Oluwatosin @Ma Yi  
 ---
 ## Online meeting sessions
 _**past sessions**_
@@ -143,8 +154,10 @@ _**past sessions**_
 - [#sg_southeast_asia]() Jan. 8, 2021 Fri. | 20:00 GMT+8
 - [#introduction]() Jan. 8, 2021 Fri. | 22:00 GTM+8
 - [#sg_r_alteryx]() Jan. 10, 2021 Sun. | 6:00 GTM+8
-
-_**upcoming sessions**_
 - [#sg_southeast_asia]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
 - [#sg_accountability_grp]() Jan. 16, 2021 Sat. | 23:30 GMT+8
-- [#sg_r_alteryx]() Jan. 16, 2021 Sun. | 6:00 GTM+8
+- [#sg_r_alteryx]() Jan. 17, 2021 Sun. | 6:00 GTM+8
+
+_**upcoming sessions**_
+
+
