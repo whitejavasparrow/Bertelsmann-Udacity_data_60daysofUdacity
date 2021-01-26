@@ -137,12 +137,15 @@ Encouraging @Jonathan Papworth @Esma @birozso @David Berumen @Prachi Gupta @Vin 
 Study jam! Attended keynotes, alumni AMA sessions, and workshops to learn more about Alteryx, Tableau, Python, R, ... data workflow!
 
 ## D28 (2021/01/25)
-- Thank you for 
-@Jonathan Papworth @Esma @birozso @David Berumen @Rachel_Kam @Ankita Ghosh @Gurpreet Kaur @Prachi Gupta @Jim Lorica :study_jam_badge:, also @Vedanth Baliga for a timely help 
+Today I worked on the Lesson 5 project. I think it’s a good start for a new week :blush:
+The past weekend is full of knowledge and community learning because of the Study Jam 1.0 :study_jam_badge:! I’m grateful to attend workshops/webinars with various topics brought to us by amazing fellow scholars! Thank you: @Jonathan Papworth @Esma @birozso @David Berumen @Rachel_Kam @Ankita Ghosh @Gurpreet Kaur @Prachi Gupta @Jim Lorica @MrLeyva and last but not least @Vedanth Baliga.
 
-thank for study jam: @Serkan KAYA @Ebinbin Ajagun @Agni 
+Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boateng @Ivan Martinovic @Christian @ehiz rendezvouz @Oluwatosin @Ma Yi @Mark B. :slightly_smiling_face: 
 
-@Rana Hendawi @Samuel Yeboah Boateng @Ivan Martinovic @ehiz rendezvouz @Christian @Oluwatosin @Ma Yi  
+## D29 (2021/01/26)
+- Catalog project: Learning about the variables.
+- SQL: Learning how to read relationships of tables within a database through the diagram, e.g., what is a crow's foot? :report-footer:
+
 ---
 ## Online meeting sessions
 _**past sessions**_
