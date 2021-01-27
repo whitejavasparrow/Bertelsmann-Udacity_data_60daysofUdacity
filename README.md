@@ -146,6 +146,14 @@ Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boat
 - Catalog project: Learning about the variables.
 - SQL: Learning how to read relationships of tables within a database through the diagram, e.g., what is a crow's foot? :report-footer:
 
+## D30 (2021/01/27)
+- Took part in #Crack-ItTuesday #l2_analytical_framework by @Peace Peters with @Oluwatosin @sooter @Ivan Martinovic @Ebinbin Ajagun :blob_cheer:!
+- SQL: Types of joins & why data are stored in different tables within a database; IS (NOT) NULL & alias.
+- Continuation of project 5!
+
+Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
+
+## D31 (2021/01/28)
 ---
 ## Online meeting sessions
 _**past sessions**_
