@@ -151,9 +151,14 @@ Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boat
 - SQL: Types of joins & why data are stored in different tables within a database; IS (NOT) NULL & alias.
 - Continuation of project 5!
 
-Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
+Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @Yonghyun.Noh @Mbakisi Dube @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
 
 ## D31 (2021/01/28)
+SQL aggregations; saw my first subsquery!
+## D32 (2021/01/29)
+SQL subqueries & temporary tables :slightly_smiling_face:
+
+Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
 ---
 ## Online meeting sessions
 _**past sessions**_
