@@ -184,9 +184,9 @@ _**past sessions**_
 - [#sg_southeast_asia #2]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
 - [#sg_accountability_grp #3]() Jan. 16, 2021 Sat. | 23:30 GMT+8
 - [#sg_r_alteryx #2]() Jan. 17, 2021 Sun. | 6:00 GTM+8
+- [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
 
 _**upcoming sessions**_
-- [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
 - [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
