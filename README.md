@@ -138,6 +138,7 @@ Study jam! Attended keynotes, alumni AMA sessions, and workshops to learn more a
 
 ## D28 (2021/01/25)
 Today I worked on the Lesson 5 project. I think it’s a good start for a new week :blush:
+
 The past weekend is full of knowledge and community learning because of the Study Jam 1.0 :study_jam_badge:! I’m grateful to attend workshops/webinars with various topics brought to us by amazing fellow scholars! Thank you: @Jonathan Papworth @Esma @birozso @David Berumen @Rachel_Kam @Ankita Ghosh @Gurpreet Kaur @Prachi Gupta @Jim Lorica @MrLeyva and last but not least @Vedanth Baliga.
 
 Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boateng @Ivan Martinovic @Christian @ehiz rendezvouz @Oluwatosin @Ma Yi @Mark B. :slightly_smiling_face: 
@@ -151,29 +152,43 @@ Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boat
 - SQL: Types of joins & why data are stored in different tables within a database; IS (NOT) NULL & alias.
 - Continuation of project 5!
 
-Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @Yonghyun.Noh @Mbakisi Dube @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
+Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
 
 ## D31 (2021/01/28)
 SQL aggregations; saw my first subsquery!
+
 ## D32 (2021/01/29)
 SQL subqueries & temporary tables :slightly_smiling_face:
 
-Encouraging @Esma @Prachi Gupta @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga :blush:
+Today I'd like to encourage @Esma @Prachi Gupta @Ashish Kumar Panigrahy @ehiz rendezvouz @MrLeyva @Mark B. @Cindy @Jyotsna Masand @birozso @Edgar Chacon @Ma Yi @Vedanth Baliga @Ebinbin Ajagun :blush:
+
+## D33 (2021/01/30)
+- SQL subquery mania. The queries are so nested that needed to be run parts by parts to see what's happening.
+- Read an article about how A/B testing is applied in language learning, e.g., when to learn past tenses! https://medium.com/googleplaydev/duolingo-1-improvement-every-week-ab7d61689119
+
+Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Oluwatosin
+@Max Bergmann @Vin @Prachi Gupta  @Abhishek Tiwari @Ma Yi @susyjam @Dongyeun Kum @MrLeyva @ehiz rendezvouz @Erika F. :blob-yes::four_leaf_clover::blob-dance::tada:
+
+
 ---
 ## Online meeting sessions
 _**past sessions**_
-- [#sg_accountability_grp]() Dec. 08, 2020 Tue. | 23:30 GMT+8 
+- [#sg_accountability_grp #1]() Dec. 08, 2020 Tue. | 23:30 GMT+8 
 <br/>
 <img src="img/20201208 sg_accoutability_grp 1st meet-up.jpg">
 
-- [#sg_accountability_grp]() Dec. 22, 2020 Tue. | 23:30 GMT+8
-- [#sg_southeast_asia]() Jan. 8, 2021 Fri. | 20:00 GMT+8
-- [#introduction]() Jan. 8, 2021 Fri. | 22:00 GTM+8
-- [#sg_r_alteryx]() Jan. 10, 2021 Sun. | 6:00 GTM+8
-- [#sg_southeast_asia]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
-- [#sg_accountability_grp]() Jan. 16, 2021 Sat. | 23:30 GMT+8
-- [#sg_r_alteryx]() Jan. 17, 2021 Sun. | 6:00 GTM+8
+- [#sg_accountability_grp #2]() Dec. 22, 2020 Tue. | 23:30 GMT+8
+- [#sg_southeast_asia #1]() Jan. 8, 2021 Fri. | 20:00 GMT+8
+- [#introduction #1]() Jan. 8, 2021 Fri. | 22:00 GTM+8
+- [#sg_r_alteryx #1]() Jan. 10, 2021 Sun. | 6:00 GTM+8
+- [#sg_southeast_asia #2]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
+- [#sg_accountability_grp #3]() Jan. 16, 2021 Sat. | 23:30 GMT+8
+- [#sg_r_alteryx #2]() Jan. 17, 2021 Sun. | 6:00 GTM+8
 
 _**upcoming sessions**_
-
+- [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
+- [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
+- [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
+- [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
+- [#student_leaders]() Feb. 2, 2021 Tue. | 2:30 GTM+8
 
