@@ -169,6 +169,12 @@ Today I'd like to encourage @Esma @Prachi Gupta @Ashish Kumar Panigrahy @ehiz re
 Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Oluwatosin
 @Max Bergmann @Vin @Prachi Gupta  @Abhishek Tiwari @Ma Yi @susyjam @Dongyeun Kum @MrLeyva @ehiz rendezvouz @Erika F. :blob-yes::four_leaf_clover::blob-dance::tada:
 
+## D34 (2021/01/31)
+- Had a meeting in #sg_accountability_grp with presentation by @Jim Lorica and @Prachi Gupta on standard deviation and variance.
+- Continuing subquery mania for WITH statement.
+
+Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Oluwatosin
+@Max Bergmann @Esma @Shazil Yarsien @Rebeca Lopes @Shrey Gupta @Vin @Abhishek Tiwari @Ma Yi @susyjam @Dongyeun Kum @MrLeyva @ehiz rendezvouz @Erika F.
 
 ---
 ## Online meeting sessions
