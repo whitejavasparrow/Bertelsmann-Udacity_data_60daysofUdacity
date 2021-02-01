@@ -176,6 +176,15 @@ Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edg
 Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Oluwatosin
 @Max Bergmann @Esma @Shazil Yarsien @Rebeca Lopes @Shrey Gupta @Vin @Abhishek Tiwari @Ma Yi @susyjam @Dongyeun Kum @MrLeyva @ehiz rendezvouz @Erika F.
 
+## D35 (2021/02/01)
+- Attended the networking event in #introductions organised by @Candy @Syed Haider Ali Shah @James. Liked the culture quiz and breakout rooms, which made me want to re-read posts about these beautiful cultures shared by amazing scholars here :)
+- Had a meeting with #sg_r_alteryx. Thanks @MrLeyva @Oluwatosin @ehiz rendezvouz. I'm thinking about possibilities for next topics :D
+- Learned about SQL data cleaning.
+- Speaking of query languages, there is also CQL (Corpus Query Language) used for corpora along with regular expression -> https://www.youtube.com/watch?v=g7IwzWNzhAI
+
+Today I'd like to encourage @Jonathan Papworth @Cindy @birozso @Vedanth Baliga @Yuhan Zhang @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Ismat Fatima @Gerardo Valencia @Yusuf Alma
+@Esma @James @Thuy Tran @Agnes @Vin @Ma Yi @susyjam @Dongyeun Kum @Erika F.
+
 ---
 ## Online meeting sessions
 _**past sessions**_
@@ -191,10 +200,10 @@ _**past sessions**_
 - [#sg_accountability_grp #3]() Jan. 16, 2021 Sat. | 23:30 GMT+8
 - [#sg_r_alteryx #2]() Jan. 17, 2021 Sun. | 6:00 GTM+8
 - [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
-
-_**upcoming sessions**_
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
 - [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
+
+_**upcoming sessions**_
 - [#student_leaders]() Feb. 2, 2021 Tue. | 2:30 GTM+8
 
