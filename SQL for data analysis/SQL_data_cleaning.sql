@@ -93,3 +93,25 @@ WITH name_table AS (
 SELECT first_name, last_name, LOWER(first_name) || '.' || LOWER(last_name) || '@' || LOWER(com_first_name) || '.com' email_add,
 LOWER(LEFT(first_name, 1)) || LOWER(RIGHT(first_name, 1)) || LOWER(LEFT(last_name, 1)) || LOWER(RIGHT(last_name, 1)) || LENGTH(first_name) || LENGTH(last_name) || LOWER(REPLACE(name, ' ', '')) init_pw
 FROM name_table_email
+
+-- For this set of quiz questions, you are going to be working with a single table in the environment below. This is a different dataset than Parch & Posey, as all of the data in that particular dataset were already clean.
+SELECT *
+FROM sf_crime_data
+LIMIT 10
+
+-- #####
+ WITH time_table AS (
+   SELECT *,
+       SUBSTR(date, 1, 2) part_month,
+       SUBSTR(date, 4, 2) part_day,
+       SUBSTR(date, 7, 4) part_year
+   FROM sf_crime_data
+   LIMIT 10
+)
+
+SELECT CAST(part_year || '-' || part_month || '-' || part_day AS DATE) formatted_date
+FROM time_table
+
+-- or
+SELECT (part_year || '-' || part_month || '-' || part_day)::date formatted_date
+FROM time_table
