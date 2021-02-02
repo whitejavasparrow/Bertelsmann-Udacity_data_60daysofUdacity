@@ -115,3 +115,55 @@ FROM time_table
 -- or
 SELECT (part_year || '-' || part_month || '-' || part_day)::date formatted_date
 FROM time_table
+
+-- In this quiz, we will walk through the previous example using the following task list. We will use the COALESCE function to complete the orders record for the row in the table output.
+SELECT *
+FROM accounts a
+LEFT JOIN orders o
+ON a.id = o.account_id
+WHERE o.total IS NULL;
+
+SELECT COALESCE(a.id, a.id) aid, a.name, a.website, a.lat, a.long, a.primary_poc, a.sales_rep_id, COALESCE(o.account_id, a.id) oid, o.occurred_at, COALESCE(o.standard_qty, 0) standard_qty, COALESCE(o.gloss_qty, 0) gloss_qty, COALESCE(o.poster_qty, 0) poster_qty, COALESCE(o.total, 0) total, COALESCE(o.standard_amt_usd, 0) standard_amt_usd, COALESCE(o.gloss_amt_usd, 0) gloss_amt_usd, COALESCE(o.poster_amt_usd, 0) poster_amt_usd, COALESCE(o.total_amt_usd, 0) total_amt_usd
+FROM accounts a
+LEFT JOIN orders o
+ON a.id = o.account_id
+WHERE o.total IS NULL;
+
+SELECT COALESCE(a.id, a.id) aid, a.name, a.website, a.lat, a.long, a.primary_poc, a.sales_rep_id, COALESCE(o.account_id, a.id) oid, o.occurred_at, COALESCE(o.standard_qty, 0) standard_qty, COALESCE(o.gloss_qty, 0) gloss_qty, COALESCE(o.poster_qty, 0) poster_qty, COALESCE(o.total, 0) total, COALESCE(o.standard_amt_usd, 0) standard_amt_usd, COALESCE(o.gloss_amt_usd, 0) gloss_amt_usd, COALESCE(o.poster_amt_usd, 0) poster_amt_usd, COALESCE(o.total_amt_usd, 0) total_amt_usd
+FROM accounts a
+LEFT JOIN orders o
+ON a.id = o.account_id
+
+WITH sub AS (
+  SELECT COALESCE(a.id, a.id) aid, a.name, a.website, a.lat, a.long, a.primary_poc, a.sales_rep_id, COALESCE(o.account_id, a.id) oid, o.occurred_at, COALESCE(o.standard_qty, 0) standard_qty, COALESCE(o.gloss_qty, 0) gloss_qty, COALESCE(o.poster_qty, 0) poster_qty, COALESCE(o.total, 0) total, COALESCE(o.standard_amt_usd, 0) standard_amt_usd, COALESCE(o.gloss_amt_usd, 0) gloss_amt_usd, COALESCE(o.poster_amt_usd, 0) poster_amt_usd, COALESCE(o.total_amt_usd, 0) total_amt_usd
+  FROM accounts a
+  LEFT JOIN orders o
+  ON a.id = o.account_id
+)
+
+SELECT aid, COUNT(aid)
+FROM sub
+GROUP BY aid
+ORDER BY count DESC
+
+WITH sub AS (
+  SELECT COALESCE(a.id, a.id) aid, a.name, a.website, a.lat, a.long, a.primary_poc, a.sales_rep_id, COALESCE(o.account_id, a.id) oid, o.occurred_at, COALESCE(o.standard_qty, 0) standard_qty, COALESCE(o.gloss_qty, 0) gloss_qty, COALESCE(o.poster_qty, 0) poster_qty, COALESCE(o.total, 0) total, COALESCE(o.standard_amt_usd, 0) standard_amt_usd, COALESCE(o.gloss_amt_usd, 0) gloss_amt_usd, COALESCE(o.poster_amt_usd, 0) poster_amt_usd, COALESCE(o.total_amt_usd, 0) total_amt_usd
+  FROM accounts a
+  LEFT JOIN orders o
+  ON a.id = o.account_id
+),
+sub_ori AS (
+  SELECT *
+  FROM accounts a
+  LEFT JOIN orders o
+  ON a.id = o.account_id
+)
+
+SELECT COUNT(*)
+FROM sub_ori
+LIMIT 5
+
+SELECT COUNT(*)
+FROM accounts a
+LEFT JOIN orders o
+ON a.id = o.account_id;
