@@ -182,6 +182,12 @@ Today I'd like to encourage @Cindy @Syed Haider Ali Shah @Priscila Espinoza @Edg
 
 Today I'd like to encourage @Jonathan Papworth @Cindy @birozso @Vedanth Baliga @Yuhan Zhang @Priscila Espinoza @Edgar Chacon @Mark B. @Christian @Ismat Fatima @Gerardo Valencia @Yusuf Alma
 @Esma @James @Thuy Tran @Agnes @Vin @Ma Yi @susyjam @Dongyeun Kum @Erika F.
+## D36 (2021/02/02)
+- Finished SQL data cleaning about converting NULLs and concatenation of strings and dates.
+- Read about how to do text mining in Alteryx, fresh experience. https://help.alteryx.com/current/designer/text-mining
+- Not feeling well with a stiff neck :joy::see_no_evil:
+
+Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @shereen bashar @LauraT @Priscila Espinoza @Edgar Chacon @Rachel_Kam @MrLeyva @Oluwatosin @ehiz rendezvouz @Mark B. @Ma Yi @susyjam @Dongyeun Kum @John Analoh
 
 ---
 ## Online meeting sessions
