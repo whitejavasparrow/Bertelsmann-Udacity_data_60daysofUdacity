@@ -189,6 +189,12 @@ Today I'd like to encourage @Jonathan Papworth @Cindy @birozso @Vedanth Baliga @
 
 Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @shereen bashar @LauraT @Priscila Espinoza @Edgar Chacon @Rachel_Kam @MrLeyva @Oluwatosin @ehiz rendezvouz @Mark B. @Ma Yi @susyjam @Dongyeun Kum @John Analoh
 
+## D37 (2021/02/03)
+- SQL: window functions (OVER & PARTITION BY)
+- Reviewed L1: The analytical problem
+
+Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @Samuel Yeboah Boateng @Peace Peters @Ebinbin Ajagun @Ivan Martinovic @sourav kumar @Oluwatosin @Jessica.Etoh @Smpsnseun.Udacity @Priscila Espinoza @Edgar Chacon @Dongyeun Kum @John Analoh @Ma Yi @susyjam @Charlotte Saunders @Mark B. @MrLeyva @ehiz rendezvouz
+
 ---
 ## Online meeting sessions
 _**past sessions**_
