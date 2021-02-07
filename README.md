@@ -195,6 +195,30 @@ Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @shereen bashar @Lau
 
 Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @Samuel Yeboah Boateng @Peace Peters @Ebinbin Ajagun @Ivan Martinovic @sourav kumar @Oluwatosin @Jessica.Etoh @Smpsnseun.Udacity @Priscila Espinoza @Edgar Chacon @Dongyeun Kum @John Analoh @Ma Yi @susyjam @Charlotte Saunders @Mark B. @MrLeyva @ehiz rendezvouz
 
+## D38 (2021/02/04)
+- Continued window functions in SQL
+
+Today I'd like to encourage @Jonathan Papworth @Cindy @Esma @birozso @Vedanth Baliga @ehiz rendezvouz @Edgar Chacon @MrLeyva @Samuel Yeboah Boateng @Mark B. @Oluwatosin @John Analoh @susyjam @Dongyeun Kum @Agni @Jessica.Etoh @Sumaiya
+
+## D39 (2021/02/05)
+Revision of notes on L2 and SQL :memo:!
+
+Today I’d like to encourage @Prachi Gupta @Jim Lorica and @Cindy :heart_eyes: and everyone who is reading this ... :memo::heart_eyes:
+
+## D40 (2021/02/06)
+- More joins in SQL!
+
+## D41 (2021/02/07)
+- It's Mid Jam by @Vedanth Baliga @Jonathan Papworth @birozso @David Berumen
+- 
+
+People Skills for Analytical Thinkers - Gilbert Eijkelenboom
+Lateral Thinking for Data Analysis - @Paola Redaelli
+Know Your Audience - @Esma
+Hackathon: Soft Skills , hard job - @Axel and @Richard
+
+@MrLeyva @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @Esma @Prachi Gupta @John Analoh @Toxylee @Ma Yi @ehiz rendezvouz @Vedanth Baliga @Gurpreet Kaur @Ankita Ghosh
+
 ---
 ## Online meeting sessions
 _**past sessions**_
