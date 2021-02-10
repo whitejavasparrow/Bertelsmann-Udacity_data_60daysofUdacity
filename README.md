@@ -209,16 +209,36 @@ Today I’d like to encourage @Prachi Gupta @Jim Lorica and @Cindy :heart_eyes: 
 - More joins in SQL!
 
 ## D41 (2021/02/07)
-- It's Mid Jam by @Vedanth Baliga @Jonathan Papworth @birozso @David Berumen
-- 
+Attended Mid Jam organised by @Vedanth Baliga @Jonathan Papworth @birozso @David Berumen
 
-People Skills for Analytical Thinkers - Gilbert Eijkelenboom
-Lateral Thinking for Data Analysis - @Paola Redaelli
-Know Your Audience - @Esma
-Hackathon: Soft Skills , hard job - @Axel and @Richard
+>  People Skills for Analytical Thinkers - Gilbert Eijkelenboom
+>
+>  Lateral Thinking for Data Analysis - @Paola Redaelli
+>
+>  Know Your Audience - @Esma
+>
+>  Hackathon: Soft Skills, hard job - @Richard and @Axel
 
-@MrLeyva @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @Esma @Prachi Gupta @John Analoh @Toxylee @Ma Yi @ehiz rendezvouz @Vedanth Baliga @Gurpreet Kaur @Ankita Ghosh
+Learning how to talk before camera and pay attention to types of input :slightly_smiling_face:
+Meanwhile, learning how to be more aware of data composition and be prepared for projects & hands-on!
 
+Today I'd like to encourage @Cindy @Gurpreet Kaur @Ankita Ghosh @susyjam @Samuel Yeboah Boateng @Mark B. @MrLeyva @Oluwatosin @Esma @Prachi Gupta @John Analoh @Dongyeun Kum @Ma Yi  @ehiz rendezvouz :blob-sun:
+
+## D42 (2021/02/08)
+Review L3; SQL :blob-dance:
+
+## D43 (2021/02/09)
+learning about refactoring and practicing SQL!
+
+Encouraging @Cindy @Jim Lorica @Princy @Samuel Yeboah Boateng @Oluwatosin @Esma @John Analoh @Prachi Gupta @Vin @Don Angeles @Shazil Yarsien @Abhishek Tiwari @Shamal Nissanka @Vedanth Baliga @Quyen Nguyen @Clarence Lam @MrLeyva @Ma Yi @ehiz rendezvouz @Md. Jamal Uddin @Mark B.
+
+## D44 (2021/02/10)
+- Practicing SQL :eyes:
+- Learning from weekly #CrackItTuesday by @Peace Peters :blob_cheer:
+- Tomorrow is Chinese New Year's Eve! :blush:
+
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @birozso @Vedanth Baliga @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Princy @Ma Yi @Temilade Lizzy @MrLeyva @ehiz rendezvouz @Ebinbin Ajagun
+Hope to learn more in the following days!
 ---
 ## Online meeting sessions
 _**past sessions**_
