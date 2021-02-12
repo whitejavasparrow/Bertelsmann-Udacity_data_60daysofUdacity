@@ -239,6 +239,27 @@ Encouraging @Cindy @Jim Lorica @Princy @Samuel Yeboah Boateng @Oluwatosin @Esma 
 
 Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @birozso @Vedanth Baliga @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Princy @Ma Yi @Temilade Lizzy @MrLeyva @ehiz rendezvouz @Ebinbin Ajagun
 Hope to learn more in the following days!
+
+## D45 (2021/02/11)
+- Practicing SQL
+- Back to statistics about Linear Algebra Refersher Course
+- Today is Chinese New Year's Eve! :blush:
+
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @birozso @Vedanth Baliga @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Princy @Ma Yi @Temilade Lizzy @MrLeyva @ehiz rendezvouz @Ebinbin Ajagun
+
+Hope to learn more in the following days!
+
+## D46 (2021/02/12)
+- Reviewed notes
+- Back to statistics about Linear Algebra Refersher Course
+- Today is Lunar New Year! :tada::confetti_ball::laughing:
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @birozso @Vedanth Baliga @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Princy @Ma Yi @Temilade Lizzy @MrLeyva @ehiz rendezvouz @Ebinbin Ajagun
+Hope to learn more in the following days!
+
+## D47 (2021/02/13)
+
+@ehiz rendezvouz @susyjam @Samuel Yeboah Boateng @Oluwatosin @Mark B. @Prachi Gupta @Esma @Jim Lorica @Ashish Kumar Panigrahy @Temilade Lizzy @Vedanth Baliga @Dongyeun Kum @Ma Yi @Edgar Chacon @MrLeyva
+
 ---
 ## Online meeting sessions
 _**past sessions**_
@@ -261,3 +282,5 @@ _**past sessions**_
 _**upcoming sessions**_
 - [#student_leaders]() Feb. 2, 2021 Tue. | 2:30 GTM+8
 
+Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
+Thank you for your encouragement & Amazing work you do! :star-struck::tada:
