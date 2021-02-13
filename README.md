@@ -257,8 +257,11 @@ Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah 
 Hope to learn more in the following days!
 
 ## D47 (2021/02/13)
+- Going through courses again and realized I didn't watched the welcome intro!
+- Flower starts blossoming in new year! :D
 
-@ehiz rendezvouz @susyjam @Samuel Yeboah Boateng @Oluwatosin @Mark B. @Prachi Gupta @Esma @Jim Lorica @Ashish Kumar Panigrahy @Temilade Lizzy @Vedanth Baliga @Dongyeun Kum @Ma Yi @Edgar Chacon @MrLeyva
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng@Oluwatosin @Jonathan Papworth @birozso @Vedanth Baliga @Quyen Nguyen @Vin @Clarence Lam@Dongyeun Kum @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Ma Yi @MrLeyva @ehiz rendezvouz @Smpsnseun.Udacity @Jessica.Etoh @Jessica Ch'ng @Ashish Kumar Panigrahy
+Hope to learn more in the following days!
 
 ---
 ## Online meeting sessions
