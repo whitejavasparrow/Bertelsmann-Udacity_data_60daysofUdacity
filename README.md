@@ -309,6 +309,9 @@ _**past sessions**_
 - [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
 
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
+<br/>
+<img src="img/20210131 Podcast.png">
+
 
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
 
