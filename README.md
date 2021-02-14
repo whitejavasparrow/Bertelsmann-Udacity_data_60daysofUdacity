@@ -261,8 +261,18 @@ Hope to learn more in the following days!
 - Flower starts blossoming in new year! :D
 
 Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah Boateng@Oluwatosin @Jonathan Papworth @birozso @Vedanth Baliga @Quyen Nguyen @Vin @Clarence Lam@Dongyeun Kum @John Analoh @Prachi Gupta @Esma @Abhishek Tiwari @Ma Yi @MrLeyva @ehiz rendezvouz @Smpsnseun.Udacity @Jessica.Etoh @Jessica Ch'ng @Ashish Kumar Panigrahy
+
 Hope to learn more in the following days!
 
+## D48 (2021/02/14)
+- Attended #sg_accountability_grp meet-up on the topic "Probability Distribution and its Practical Use Cases" by @Shazil Yarsien.
+- Learned about regression in #sg_learn_together.
+- Updated mentor-mentee pairing :)
+- Don't forget to bookmark the date Saturday 20 and 27 February for a webinar with @Shanmugam Event is in our Data Track Calendar with links.
+
+Today I'd like to encourage @Jyotsna Masand @MrLeyva @Avinash Kumar @Ashish Kumar Panigrahy @Samuel Yeboah Boateng @Oluwatosin @Jonathan Papworth @Prachi Gupta @Dongyeun Kum @susyjam @Wendy @Edgar Chacon @ehiz rendezvouz @Jessica.Etoh @Jessica Ch'ng @Ma Yi @Ebinbin Ajagun @Esma @Rachel_Kam
+
+Hope to learn more in the following days!
 ---
 ## Online meeting sessions
 _**past sessions**_
@@ -281,9 +291,9 @@ _**past sessions**_
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
 - [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
+- [#sg_accountability_grp #5]() Feb. 14, 2021 Sat. | 00:00 GMT+8
 
 _**upcoming sessions**_
-- [#student_leaders]() Feb. 2, 2021 Tue. | 2:30 GTM+8
 
 Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
 Thank you for your encouragement & Amazing work you do! :star-struck::tada:
