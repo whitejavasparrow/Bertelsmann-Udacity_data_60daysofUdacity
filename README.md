@@ -288,6 +288,8 @@ _**past sessions**_
 
 
 - [#introduction #1]() Jan. 8, 2021 Fri. | 22:00 GTM+8
+<br/>
+<img src="img/20210108 #introduction 1-6.png">
 
 - [#sg_r_alteryx #1]() Jan. 10, 2021 Sun. | 6:00 GTM+8
 <br/>
@@ -311,6 +313,10 @@ _**past sessions**_
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
 
 - [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
+
+- [#mentor_mentee_organizers #1]() Feb. 14, 2021 Sat. | 00:00 GMT+8
+<br/>
+<img src="img/20210211 mentor_mentee_organizers 1.png">
 
 - [#sg_accountability_grp #5]() Feb. 14, 2021 Sat. | 00:00 GMT+8
 <br/>
