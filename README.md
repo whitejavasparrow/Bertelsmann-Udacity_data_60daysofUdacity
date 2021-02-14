@@ -265,12 +265,12 @@ Today I'd like to encourage @Cindy @Jim Lorica @susyjam @Mark B. @Samuel Yeboah 
 Hope to learn more in the following days!
 
 ## D48 (2021/02/14)
-- Attended #sg_accountability_grp meet-up on the topic "Probability Distribution and its Practical Use Cases" by @Shazil Yarsien.
-- Learned about regression in #sg_learn_together.
-- Updated mentor-mentee pairing :)
-- Don't forget to bookmark the date Saturday 20 and 27 February for a webinar with @Shanmugam Event is in our Data Track Calendar with links.
+- Attended #sg_accountability_grp meet-up on the topic "Probability Distribution and its Practical Use Cases" by @Shazil Yarsien :clapping::thank_you:!
+- Learned about regression in #sg_learn_together :dart::tada:
+- Continued working on the mentor-mentee pairing :sonic:
+- Don't forget to bookmark the date Saturday 20 and 27 February for a webinar with @Shanmugam! :calendar::coffee:
 
-Today I'd like to encourage @Jyotsna Masand @MrLeyva @Avinash Kumar @Ashish Kumar Panigrahy @Samuel Yeboah Boateng @Oluwatosin @Jonathan Papworth @Prachi Gupta @Dongyeun Kum @susyjam @Wendy @Edgar Chacon @ehiz rendezvouz @Jessica.Etoh @Jessica Ch'ng @Ma Yi @Ebinbin Ajagun @Esma @Rachel_Kam
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @MrLeyva @Avinash Kumar @Ashish Kumar Panigrahy @Samuel Yeboah Boateng @birozso @Vedanth Baliga @Quyen Nguyen @Clarence Lam @Jonathan Papworth @Dongyeun Kum @Edgar Chacon @Mark B. @ehiz rendezvouz @Jessica.Etoh @Jyotsna Masand @Jessica Ch'ng @Ma Yi @Prachi Gupta @Esma @Shazil Yarsien @Oluwatosin@Rebeca Lopes @Vin @Ebinbin Ajagun @Rachel_Kam
 
 Hope to learn more in the following days!
 ---
@@ -278,20 +278,43 @@ Hope to learn more in the following days!
 _**past sessions**_
 - [#sg_accountability_grp #1]() Dec. 08, 2020 Tue. | 23:30 GMT+8 
 <br/>
-<img src="img/20201208 sg_accoutability_grp 1st meet-up.jpg">
+<img src="img/20201208 sg_accoutability_grp 1.jpg">
 
 - [#sg_accountability_grp #2]() Dec. 22, 2020 Tue. | 23:30 GMT+8
+
 - [#sg_southeast_asia #1]() Jan. 8, 2021 Fri. | 20:00 GMT+8
+<br/>
+<img src="img/20210108 sg_southeast_asia 1-1.png">
+
+
 - [#introduction #1]() Jan. 8, 2021 Fri. | 22:00 GTM+8
+
 - [#sg_r_alteryx #1]() Jan. 10, 2021 Sun. | 6:00 GTM+8
+<br/>
+<img src="img/20210110 sg_r_alteryx 1-2.png">
+
 - [#sg_southeast_asia #2]() + [#sg_learn_together]() Jan. 16, 2021 Sat. | 20:00 GMT+8
+<br/>
+<img src="img/20210116 sg_southeast_asia 2 (pandas).png">
+
+
 - [#sg_accountability_grp #3]() Jan. 16, 2021 Sat. | 23:30 GMT+8
+
 - [#sg_r_alteryx #2]() Jan. 17, 2021 Sun. | 6:00 GTM+8
+<br/>
+<img src="img/20210117 sg_r_alteryx 2-2.png">
+
 - [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
+
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
+
 - [#introduction #2]() Jan. 31, 2021 Sun. | 22:00 GTM+8
+
 - [#sg_r_alteryx #3]() Jan. 31, 2021 Sun. | 23:30 GTM+8
+
 - [#sg_accountability_grp #5]() Feb. 14, 2021 Sat. | 00:00 GMT+8
+<br/>
+<img src="img/20210214 sg_accountability_grp 5-2.png">
 
 _**upcoming sessions**_
 
