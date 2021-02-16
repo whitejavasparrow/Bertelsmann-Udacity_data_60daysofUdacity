@@ -270,9 +270,27 @@ Hope to learn more in the following days!
 - Continued working on the mentor-mentee pairing :sonic:
 - Don't forget to bookmark the date Saturday 20 and 27 February for a webinar with @Shanmugam! :calendar::coffee:
 
-Today I'd like to encourage @Cindy @Jim Lorica @susyjam @MrLeyva @Avinash Kumar @Ashish Kumar Panigrahy @Samuel Yeboah Boateng @birozso @Vedanth Baliga @Quyen Nguyen @Clarence Lam @Jonathan Papworth @Dongyeun Kum @Edgar Chacon @Mark B. @ehiz rendezvouz @Jessica.Etoh @Jyotsna Masand @Jessica Ch'ng @Ma Yi @Prachi Gupta @Esma @Shazil Yarsien @Oluwatosin@Rebeca Lopes @Vin @Ebinbin Ajagun @Rachel_Kam
+Today I'd like to encourage @Cindy @Jim Lorica @susyjam @MrLeyva @Avinash Kumar @Ashish Kumar Panigrahy @Samuel Yeboah Boateng @birozso @Vedanth Baliga @Quyen Nguyen @Clarence Lam @Jonathan Papworth @Dongyeun Kum @Edgar Chacon @Mark B. @ehiz rendezvouz @Jessica.Etoh @Jyotsna Masand @Jessica Ch'ng @Ma Yi @Prachi Gupta @Esma @Shazil Yarsien @Oluwatosin @Rebeca Lopes @Vin @Ebinbin Ajagun @Rachel_Kam
 
 Hope to learn more in the following days!
+
+## D49 (2021/02/15)
+- Revisted all quizzes from the foundation course
+- Learned about regression in #sg_learn_together :dart::tada:
+
+Encouraging @Cindy @Jim Lorica @Prachi Gupta @Esma @susyjam @Mark B. @Samuel Yeboah Boateng @Oluwatosin @Jonathan Papworth @birozso @Vedanth Baliga @Dongyeun Kum @John Analoh @Avinash Kumar @Ashish Kumar Panigrahy @Abhishek Tiwari @Ma Yi @Smpsnseun.Udacity @Jhonatan Camasca @Yonghyun.Noh @ehiz rendezvouz @MrLeyva
+
+Hope to learn more in the following days!
+
+## D50 (2021/02/16)
+- Back to statistics about Linear Algebra Refersher Course
+- Met with @Prachi Gupta and @Jim Lorica for the pairing of mentors and mentees.
+- Stay tuned for short lessons in #sg_learn_together
+
+Today I'd like to encourage @susyjam @Oluwatosin @Samuel Yeboah Boateng @birozso @Mark B. @Jim Lorica @Ebinbin Ajagun @Esma @Prachi Gupta @Gurpreet Kaur @Dongyeun Kum @Ma Yi @MrLeyva @Charlotte Saunders @Edgar Chacon @@Frida @Nicola Stramka
+
+Hope to learn more in the following days!
+
 ---
 ## Online meeting sessions
 _**past sessions**_
@@ -325,7 +343,13 @@ _**past sessions**_
 <br/>
 <img src="img/20210214 sg_accountability_grp 5-2.png">
 
+- [#mentor_mentee_organizers #2]() Feb. 16, 2021 Tue. | 01:30 GMT+8
+<br/>
+<img src="img/20210216 mentor_mentee_organizers 2.png">
+
 _**upcoming sessions**_
 
 Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
 Thank you for your encouragement & Amazing work you do! :star-struck::tada:
+
+9:00 AM Feb. closing of mentor-mentee program
