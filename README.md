@@ -291,6 +291,29 @@ Today I'd like to encourage @susyjam @Oluwatosin @Samuel Yeboah Boateng @birozso
 
 Hope to learn more in the following days!
 
+## D51 (2021/02/17)
+- Back to statistics about Linear Algebra Refresher Course
+- Getting ready with another finalization of mentor and mentee pairing with @Prachi Gupta @Cindy @Jim Lorica
+- The topic of the short lessons today is "overfitting/underfitting" in #sg_learn_together
+
+Today I'd like to encourage @Edgar Chacon @susyjam @Oluwatosin @Mark B. @Samuel Yeboah Boateng @Jonathan Papworth @birozso @Peace Peters @Vedanth Baliga @Esma @Quyen Nguyen @Smpsnseun.Udacity  @Charlotte Saunders @Nicola Stramka @Ma Yi @MrLeyva @Frida @Gurpreet Kaur @Ebinbin Ajagun @Dongyeun Kum
+
+Hope to learn more in the following days!
+
+## D52 (2021/02/18)
+- Reckoning last week's CrackIt-Tuesday, taking a detour to explore the various data viz/plots on data.
+- Seeking data viz for text as well: https://courses.cs.washington.edu/courses/cse512/15sp/lectures/CSE512-Text.pdf?fbclid=IwAR1byC2nUvLE7EgKzkxosU_be-ehIhj0eubfu2sjtvMUCnnGsGqgj6SbEY8
+
+Today I'd like to encourage @Cindy @Frida @susyjam @Oluwatosin @Samuel Yeboah Boateng @Jonathan Papworth @Prachi Gupta @Ankita Ghosh @Jim Lorica @Esma @Vedanth Baliga @Quyen Nguyen @birozso @Charlotte Saunders @Peace Peters @Ebinbin Ajagun @Max Bergmann @Nicola Stramka @Ma Yi @MrLeyva @Mark B. @Temilade Lizzy @Rachel_Kam @Oluwatosin Olanrewaju
+
+Hope to learn more in the following days!
+
+## D60
+
+Had a few memorable night of knowledge from #Crack-ItTuesday
+
+@Peace Peters @@Uchechukwu Azubuko
+
 ---
 ## Online meeting sessions
 _**past sessions**_
