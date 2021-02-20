@@ -308,11 +308,21 @@ Today I'd like to encourage @Cindy @Frida @susyjam @Oluwatosin @Samuel Yeboah Bo
 
 Hope to learn more in the following days!
 
+## D53 (2021/02/19)
+- Still a bit of statistics on Linear Algebra Refresher Course
+- Started A/B testing for business analysts. Learning about an example of product introduction.
+- The example is relatable. In my neighborhood, there are around 20 new beverage stores these past months. That's something people have been discussing!
+- The session "An Entrepreneur's Journey" will be hosted by @Shanmugam today at 1:45PM GMT!
+
+Today I'd like to encourage @Cindy @Jonathan Papworth @susyjam @Vedanth Baliga @Oluwatosin @birozso @Edgar Chacon @Frida @Karel @Mark B. @Smpsnseun.Udacity @Samuel Yeboah Boateng @Ma Yi @Quyen Nguyen @MrLeyva @Dinesh @Janelle Hawkes @Charlotte Saunders @Ehizojie Aligbeh
+
+Hope to learn more in the following days!
+
 ## D60
 
 Had a few memorable night of knowledge from #Crack-ItTuesday
 
-@Peace Peters @@Uchechukwu Azubuko
+@Peace Peters @@Uchechukwu Azubuko @Dinesh
 
 ---
 ## Online meeting sessions
