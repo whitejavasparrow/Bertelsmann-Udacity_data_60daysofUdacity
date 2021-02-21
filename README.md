@@ -1,30 +1,30 @@
 # data_60daysofUdacity
 
-### D1 (2020/12/28)
+## D1 (2020/12/28)
 Ongoing sampling distribution from Intro to Descriptive Statistics; revising notes :memo:.
 
-### D2 (2020/12/29)
+## D2 (2020/12/29)
 sampling distribution & preparing for project in L4. :)
 
-### D3 (2020/12/30)
+## D3 (2020/12/30)
 finished “sampling distribution” from Intro to Descriptive Statistics.
 
 I would like to motivate @Cindy @Shamal Nissanka :)
 
-### D4 (2020/12/31)
+## D4 (2020/12/31)
 Estimation in Inferential Statistics!
 
 Encouraging @Jonathan Papworth @Mark B. @Jessica.Etoh @Quyen Nguyen @Clarence Lam @Ma Yi @Esma :books::memo:!
 
-### D5 (2021/01/01)
+## D5 (2021/01/01)
 Estimation in Inferential Statistics; Math starts to get more interesting! (Also read some manga I bought before on Statistics and Probabilities and some history on statisticians :joy:) Happy new year to you all :tada:🥳!
 
-### D6 (2021/01/02)
+## D6 (2021/01/02)
 Learned about point estimate and interval estimate while calculating confidence interval with the help of z-table. Going back to project in L4 and tried it in Alteryx :)
 </br></br>
 I would also like to thank and encourage @Ma Yi @Jessica.Etoh @Candy @Esther Kamau @MrLeyva @Vedanth Baliga @Dongyeun Kum @Jonathan Papworth @Mark B. @Nailatul Fadhilah @Alex Kryvorutsky @Uchechukwu Azubuko @Ayush Rathi @Esma @Jim Lorica @Carmen K. Ma and everyone together here :slightly_smiling_face:
 
-### D7 (2021/01/03)
+## D7 (2021/01/03)
 Read eternal articles on the topic of estimation in inferential statistics; trying with data by watching L1 of creating an analytical dataset and learned about how different types of data can be imported.
 </br></br>
 Today’s encouragement goes with @Ma Yi @Ayush Rathi @Quyen Nguyen @Carmen K. Ma @Prachi Gupta @Clare-Joyce @Serkan KAYA @ehiz rendezvouz @Amina and @Esma for a happy birthday with peace and joyfulness, @Jonathan Papworth for the study jam initiative!
@@ -32,55 +32,55 @@ Today’s encouragement goes with @Ma Yi @Ayush Rathi @Quyen Nguyen @Carmen K. M
 Please kindly refer to this post and fill in preferred time :slightly_smiling_face:</br>
 https://bertelsmann-datatrack.slack.com/archives/C01FZHATB52/p1609619354297100
 
-### D8 (2021/01/04)
+## D8 (2021/01/04)
 Data cleaning! Lesson learned: “clean data are clean; dirty data are dirty in their own way” :slightly_smiling_face:
 
-### D9 (2021/01/05)
+## D9 (2021/01/05)
 hypothesis testing in inferential statistics!
 
-### D10 (2021/01/06)
+## D10 (2021/01/06)
 - Trying to run R code in Jupyter notebook by following the tutorial shared by @MrLeyva and @iyiola_daniel in #sg_r_alteryx; Familiarize myself more with concepts of dimensionality reduction for word embeddings ...
 - Familarize myself more with concepts like PCA and t-SNE and how to interpret variance.
 
 Encouraing @MrLeyva @ehiz rendezvouz @Ayush Rathi @Samuel Yeboah Boateng @Serkan KAYA @Mark B. @Esma @Məhəmməd Şıxıyev
 
-### D11 (2021/01/07)
+## D11 (2021/01/07)
 Hypothesis testing in Inferential Statistics. Learned about one/two-tailed tests, and statistical decision error.
 
 Today I would like to encourage @Jessica.Etoh, @Jesse Wallace, @Jessica Ch'ng, @Jessica Rocha, @Jessica Linneweber, @Jessica Tan :grin:
 
-### D12 (2021/01/08)
+## D12 (2021/01/08)
 Had the first study group meeting in #sg_southeast_asia, also discuss how we started to learn R with fellow scholars, and joined the networking event in #introduction, so today's been great! :smile: Tomorrow I plan to resume studying on Inferential Statistics and Creating an Analytical Dataset.
 
 Today I would like to encourage some faces I met @Vedanth Baliga @Clarence Lam @Simply Sarah @Jonathan Papworth @Esma @Jim Lorica @Elizabeth Ogbonnaya @Abhishek Tiwari @Atif @Cindy and those who shared a bit of their culture and learning with me ... :)
 
 Also @Dongyeun Kum @Subhashini M @Mark B. @Ma Yi @Mahammad Shikhiyev @Ayush Rathi to keep learning!
 
-### D13 (2021/01/09)
+## D13 (2021/01/09)
 Data issues and data formatting in Alteryx. In addition to deletion, missing values can be imputed, and outliners truncated. Will also learn more about how to transpose and cross tab! 
 
 Today's encouragement goes to @Candy, I hope it's not too late to say thank you to you and your colleagues! Also @Anita Igbine @Claude @Rebeca Lopes @Esma @Rosana Santos @Ma Yi @Temilade Lizzy. Keep going!
 
-### D14 (2021/01/10)
+## D14 (2021/01/10)
 Had a nice meet-up with #sg_r_alteryx. :) Continued data blending in Alteryx, learned about how to apply a waterfall approach to combine data from different sources. Hope to read articles about how to have a balanced dataset during the data blending process.
 
 Encouraging @ehiz rendezvouz @MrLeyva @Ma Yi @Mark B. @birozso @Vedanth Baliga @Edgar Chacon @Esma @Subhashini M @Esther Kamau @Ayush Rathi @Prachi Gupta @Rebeca Lopes @Mahammad Shikhiyev @Dongyeun Kum, and many more who I didn't manage to mention, for this data journey!
-### D15 (2021/01/11)
+## D15 (2021/01/11)
 Continued data blending in Alteryx. Tomorrow I'll revise notes and learn more!
 
 I'd like to encourage @Esther Kamau @Wamiru @Oluwatosin @Carlo Ertola to keep up the good work!
 
-### D16 (2021/01/12)
+## D16 (2021/01/12)
 t-Test, Part 1 in Inferential Statistics!
 
-### D17 (2021/01/13)
+## D17 (2021/01/13)
 - t-Test, Part 2/3 in Inferential Statistics!
 - finally learning SQL, with SELECT. Thank you @Vin for sharing your learning in #60daysofudacity
 - planned to do project for L5 this weekend.
 
 Today I'd like to encourage @Esma @Jonathan Papworth @Mark B. @MrLeyva @Ayush Rathi @Jim Lorica @Don Angeles @Edgar Chacon @James @Oluwatosin!
 
-### D18 (2021/01/14)
+## D18 (2021/01/14)
 - t-Test, Part 3/3 in Inferential Statistics!
 - learning SQL filtering.
 
@@ -326,7 +326,17 @@ Hope to learn more in the following days!
 Today I'd like to encourage @Jim Lorica @susyjam @Shamal Nissanka @Samuel Yeboah Boateng @Karel @Jessica.Etoh @Jessica Ch'ng @Oluwatosin Olanrewaju @Esma @Ma Yi @Edgar Chacon @birozso @Vedanth Baliga @Dinesh @MrLeyva @Mark B. @Frida @hilsia @Ebinbin Ajagun @Oluwatosin
 
 Hope to learn more in the following days!
-## D60
+
+## D55 (2021/02/21)
+
+## D56 (2021/02/23)
+
+## D57 (2021/02/24)
+
+## D58 (2021/02/25)
+
+## D59 (2021/02/26)
+## D60 (2021/02/27)
 
 Had a few memorable night of knowledge from #Crack-ItTuesday
 
@@ -388,10 +398,17 @@ _**past sessions**_
 <br/>
 <img src="img/20210216 mentor_mentee_organizers 2.png">
 
+- [#sg_accountability_grp #6]() Feb. 21, 2021 Sun. | 00:00 GMT+8
+
+- [#mentor_mentee_organizers #3]() Feb. 21, 2021 Sun. | 01:30 GMT+8
+
+- [#introduction #4]() Feb. 21, 2021 Sun. | 22:00 GTM+8
+<br/>
+<img src="img/20210221 #introduction 4-1.png">
+
 _**upcoming sessions**_
 
-- [#sg_accountability_grp #6]() Feb. 21, 2021 Sun. | 00:00 GMT+8
-- [#mentor_mentee_organizers #3]() Feb. 21, 2021 Sun. | 01:30 GMT+8
+
 
 Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
 Thank you for your encouragement & Amazing work you do! :star-struck::tada:
