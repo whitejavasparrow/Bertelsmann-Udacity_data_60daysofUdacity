@@ -318,6 +318,14 @@ Today I'd like to encourage @Cindy @Jonathan Papworth @susyjam @Vedanth Baliga @
 
 Hope to learn more in the following days!
 
+## D54 (2021/02/20)
+- continued with A/B testing for business analysts.
+- attended #sg_accountability_grp meet-up with presentation on "Linear Regression in Python :python: " by @Vin.
+- attended #mentor_mentee with @Cindy and @Prachi Gupta
+
+Today I'd like to encourage @Jim Lorica @susyjam @Shamal Nissanka @Samuel Yeboah Boateng @Karel @Jessica.Etoh @Jessica Ch'ng @Oluwatosin Olanrewaju @Esma @Ma Yi @Edgar Chacon @birozso @Vedanth Baliga @Dinesh @MrLeyva @Mark B. @Frida @hilsia @Ebinbin Ajagun @Oluwatosin
+
+Hope to learn more in the following days!
 ## D60
 
 Had a few memorable night of knowledge from #Crack-ItTuesday
@@ -372,7 +380,7 @@ _**past sessions**_
 <br/>
 <img src="img/20210211 mentor_mentee_organizers 1.png">
 
-- [#sg_accountability_grp #5]() Feb. 14, 2021 Sat. | 00:00 GMT+8
+- [#sg_accountability_grp #5]() Feb. 14, 2021 Sun. | 00:00 GMT+8
 <br/>
 <img src="img/20210214 sg_accountability_grp 5-2.png">
 
@@ -381,6 +389,9 @@ _**past sessions**_
 <img src="img/20210216 mentor_mentee_organizers 2.png">
 
 _**upcoming sessions**_
+
+- [#sg_accountability_grp #6]() Feb. 21, 2021 Sun. | 00:00 GMT+8
+- [#mentor_mentee_organizers #3]() Feb. 21, 2021 Sun. | 01:30 GMT+8
 
 Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
 Thank you for your encouragement & Amazing work you do! :star-struck::tada:
