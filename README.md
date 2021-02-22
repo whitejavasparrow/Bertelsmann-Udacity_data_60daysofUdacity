@@ -328,6 +328,12 @@ Today I'd like to encourage @Jim Lorica @susyjam @Shamal Nissanka @Samuel Yeboah
 Hope to learn more in the following days!
 
 ## D55 (2021/02/21)
+- attended the networking event in #introductions on International Mother Language Day! :blob-birthdaycake: It was fun and meaningful. Thank you @Candy @Syed Haider Ali Shah and @James Kaoma for organising. :thank_you::star-struck:
+- continued with randomized design tests on A/B testing
+
+Today I'd like to encourage @Esma @Sumaiya @Priscila Espinoza @Jagadeesh R @Emily Brown @MrLeyva @Oluwatosin @Samuel Yeboah Boateng @mubnoor @jayanth n @Karel @Jessica.Etoh @Smpsnseun.Udacity @Mark B. @Ma Yi @Frida @birozso @Charlotte Saunders @Edgar Chacon @susyjam @Jessica Ch'ng @Mahmoud Motaghi @Rebeca Lopes @Oluwatosin Olanrewaju
+
+Hope to learn more in the following days!
 
 ## D56 (2021/02/23)
 
