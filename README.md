@@ -336,7 +336,15 @@ Today I'd like to encourage @Esma @Sumaiya @Priscila Espinoza @Jagadeesh R @Emil
 Hope to learn more in the following days!
 
 ## D56 (2021/02/23)
+- sent group DMs for L5, Python, and Statistics with @Prachi Gupta @Jim Lorica @Cindy @khanadnanxyz @DejeneTechane @Jessy Chen for the #mentor_mentee program. :postbox::blob-dance:
+- continued with matched pair design tests on :alphabet-white-a:/:alphabet-yellow-b: testing.
 
+https://help.alteryx.com/current/designer/test-means-tool
+https://www.inferentialthinking.com/chapters/12/1/AB_Testing.html
+
+Today I'd like to encourage @Cindy @Jonathan Papworth @susyjam @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @birozso @Vedanth Baliga @Abhishek Tiwari @Clarence Lam @Mark B. @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Jessica Ch'ng @Ma Yi @Jessica.Etoh @Frida @Charlotte Saunders @Quyen Nguyen @mubnoor @MrLeyva
+
+Hope to learn more in the following days!
 ## D57 (2021/02/24)
 
 ## D58 (2021/02/25)
