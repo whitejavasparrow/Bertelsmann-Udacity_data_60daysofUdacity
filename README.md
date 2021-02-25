@@ -352,6 +352,7 @@ Hope to learn more in the following days!
 Today I'd like to encourage @Cindy @Frida @Ma Yi @MrLeyva @birozso @susyjam @Jessica Ch'ng @Oluwatosin @mubnoor @Vedanth Baliga @Samuel Yeboah Boateng @Mark B. @Karel @Jessica.Etoh @William Wan @Wendy Carey-Leppo @Alaa Hisham @Dinesh
 
 Hope to learn more in the following days!
+
 ## D58 (2021/02/25)
 - continued with matched pair design on A/B testing!
 - read articles on multivariate testing and simplicity (and thus wide application) of A/B testing :smile:
@@ -364,11 +365,16 @@ Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel
 Hope to learn more in the following days!
 
 ## D59 (2021/02/26)
+- finished A/B testing
+- started time series forecasting!
+
 ## D60 (2021/02/27)
+- continued with time series forecasting
+
 
 Had a few memorable night of knowledge from #Crack-ItTuesday
 
-@Peace Peters @@Uchechukwu Azubuko @Dinesh
+@Peace Peters @Uchechukwu Azubuko @Dinesh
 
 ---
 ## Online meeting sessions
