@@ -346,8 +346,22 @@ Today I'd like to encourage @Cindy @Jonathan Papworth @susyjam @Rebeca Lopes @Ol
 
 Hope to learn more in the following days!
 ## D57 (2021/02/24)
+- took part in #Crack-ItTuesday by @Peace Peters. Read some more articles related to the questions.
+- continued with matched pair design on A/B testing!
 
+Today I'd like to encourage @Cindy @Frida @Ma Yi @MrLeyva @birozso @susyjam @Jessica Ch'ng @Oluwatosin @mubnoor @Vedanth Baliga @Samuel Yeboah Boateng @Mark B. @Karel @Jessica.Etoh @William Wan @Wendy Carey-Leppo @Alaa Hisham @Dinesh
+
+Hope to learn more in the following days!
 ## D58 (2021/02/25)
+- continued with matched pair design on A/B testing!
+- read articles on multivariate testing and simplicity (and thus wide application) of A/B testing :smile:
+- met with @Prachi Gupta and @Cindy for the mentoring program
+https://www.optimizely.com/optimization-glossary/multivariate-test-vs-ab-test/?fbclid=IwAR2NJENH-1QqGMX2_6370LsIC-K4eaiHMSqZUsdMowwN4bOlCmhzXss-xp8
+https://www.nngroup.com/articles/multivariate-testing/?fbclid=IwAR0QwEMvnbl9uEjkuDT7kBl3OVqNKJtDKhZSB-7F1FYyKcU9GqF-D4NtpPU
+
+Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel @Jessica.Etoh @Smpsnseun.Udacity @susyjam @Vedanth Baliga @Jessica Ch'ng @Ma Yi @MrLeyva @Mark B. @Edgar Chacon @Dinesh @birozso @mubnoor @Amina
+
+Hope to learn more in the following days!
 
 ## D59 (2021/02/26)
 ## D60 (2021/02/27)
