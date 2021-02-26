@@ -1,84 +1,84 @@
 ,Store,Treatment-Pairing,Region,Type,Control-Treatment Pairing,Avg Growth Comparative Period,Avg Growth Test Period
-0,store_015,,Midwest,Treatment,store_015,-7.105427357601002e-16,-54.290000000000006
-1,store_024,,Midwest,Treatment,store_024,-0.00999999999999801,20.009999999999998
-2,store_027,,Midwest,Treatment,store_027,-0.01111111111111127,-21.1625
-3,store_695,,Midwest,Treatment,store_695,0.020000000000001704,-40.68000000000001
-4,store_696,,Midwest,Treatment,store_696,8.437694987151189e-16,-37.45
-5,store_707,,Midwest,Treatment,store_707,0.009999999999999431,-4.539999999999999
-6,store_719,,Midwest,Treatment,store_719,-0.009999999999997655,-16.389999999999997
-7,store_721,,Midwest,Treatment,store_721,0.010000000000000142,-39.540000000000006
-8,store_724,,Midwest,Treatment,store_724,0.010000000000000498,8.810000000000004
-9,store_727,,Midwest,Treatment,store_727,0.009999999999998366,-8.31
-10,store_741,,Midwest,Treatment,store_741,0.010000000000000142,-44.76
-11,store_742,,Midwest,Treatment,store_742,0.009999999999999431,-41.33
-12,store_755,,Midwest,Treatment,store_755,7.105427357601002e-16,3.860000000000002
-13,store_767,,Midwest,Treatment,store_767,-0.010000000000003163,-28.330000000000002
-14,store_769,,Midwest,Treatment,store_769,-0.010000000000001563,2.6
-15,store_596,,West,Treatment,store_596,-0.010000000000000142,-24.13
-16,store_601,,West,Treatment,store_601,-2.1316282072803005e-15,-29.959999999999997
-17,store_687,store_015,Midwest,Control,store_687 <-> store_015,2.1316282072803005e-15,-5.920000000000001
-18,store_728,store_015,Midwest,Control,store_728 <-> store_015,0.02000000000000064,17.43
-19,store_597,store_024,Midwest,Control,store_597 <-> store_024,1.4210854715202005e-15,-51.54
-20,store_597,store_027,Midwest,Control,store_597 <-> store_027,1.4210854715202005e-15,-51.54
-21,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-22,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-23,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-24,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-25,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-26,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-27,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-28,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-29,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-30,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-31,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-32,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-33,store_597,store_024,Midwest,Control,store_597 <-> store_024,1.4210854715202005e-15,-51.54
-34,store_597,store_027,Midwest,Control,store_597 <-> store_027,1.4210854715202005e-15,-51.54
-35,store_654,store_695,Midwest,Control,store_654 <-> store_695,0.010000000000001208,-35.160000000000004
-36,store_550,store_695,Midwest,Control,store_550 <-> store_695,-0.009999999999999431,-24.539999999999996
-37,store_788,store_696,Midwest,Control,store_788 <-> store_696,0.009999999999998366,10.94
-38,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-39,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-40,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-41,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-42,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-43,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-44,store_710,store_707,Midwest,Control,store_710 <-> store_707,7.105427357601002e-16,7.790000000000001
-45,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-46,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-47,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-48,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-49,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-50,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-51,store_703,store_719,Midwest,Control,store_703 <-> store_719,-1.865174681370263e-15,-14.010000000000002
-52,store_615,store_719,Midwest,Control,store_615 <-> store_719,-0.009999999999999898,-25.439999999999994
-53,store_733,store_721,Midwest,Control,store_733 <-> store_721,-1.4210854715202005e-15,18.87
-54,store_760,store_721,Midwest,Control,store_760 <-> store_721,2.842170943040401e-15,-16.619999999999997
-55,store_751,store_724,Midwest,Control,store_751 <-> store_724,7.105427357601002e-16,-17.32
-56,store_150,store_724,Midwest,Control,store_150 <-> store_724,-7.105427357601002e-16,-15.36
-57,store_713,store_727,Midwest,Control,store_713 <-> store_727,7.549516567451064e-16,-22.27
-58,store_700,store_727,Midwest,Control,store_700 <-> store_727,0.020000000000001704,-14.949999999999998
-59,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-60,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-61,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-62,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-63,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-64,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-65,store_798,store_741,Midwest,Control,store_798 <-> store_741,7.993605777301127e-16,25.729999999999997
-66,store_705,store_742,Midwest,Control,store_705 <-> store_742,2.1316282072803005e-15,0.6300000000000006
-67,store_776,store_024,Midwest,Control,store_776 <-> store_024,-0.010000000000000142,-13.040000000000001
-68,store_776,store_027,Midwest,Control,store_776 <-> store_027,-0.010000000000000142,-13.040000000000001
-69,store_776,store_696,Midwest,Control,store_776 <-> store_696,-0.010000000000000142,-13.040000000000001
-70,store_776,store_707,Midwest,Control,store_776 <-> store_707,-0.010000000000000142,-13.040000000000001
-71,store_776,store_741,Midwest,Control,store_776 <-> store_741,-0.010000000000000142,-13.040000000000001
-72,store_776,store_742,Midwest,Control,store_776 <-> store_742,-0.010000000000000142,-13.040000000000001
-73,store_251,store_755,Midwest,Control,store_251 <-> store_755,0.0,-3.2222222222222205
-74,store_577,store_755,Midwest,Control,store_577 <-> store_755,-0.009999999999999431,9.379999999999999
-75,store_029,store_767,Midwest,Control,store_029 <-> store_767,0.010000000000000498,-18.770000000000003
-76,store_714,store_767,Midwest,Control,store_714 <-> store_767,0.009999999999998722,-27.52
-77,store_033,store_769,Midwest,Control,store_033 <-> store_769,-0.020000000000001704,-50.39000000000001
-78,store_636,store_769,Midwest,Control,store_636 <-> store_769,0.009999999999999787,-26.28
-79,store_594,store_596,West,Control,store_594 <-> store_596,1.4210854715202005e-15,4.220000000000001
-80,store_526,store_596,West,Control,store_526 <-> store_596,0.010000000000000852,-33.11
-81,store_478,store_601,West,Control,store_478 <-> store_601,-1.7763568394002505e-15,-1.3999999999999981
-82,store_527,store_601,West,Control,store_527 <-> store_601,-0.010000000000000498,-11.67
+0,store_015,,Midwest,Treatment,store_015,-1.1102230246251566e-17,-0.5428999999999999
+1,store_024,,Midwest,Treatment,store_024,-9.999999999997789e-05,0.2001
+2,store_027,,Midwest,Treatment,store_027,-0.00011111111111111121,-0.211625
+3,store_695,,Midwest,Treatment,store_695,0.00020000000000001129,-0.40679999999999994
+4,store_696,,Midwest,Treatment,store_696,-9.367506770274759e-18,-0.37449999999999994
+5,store_707,,Midwest,Treatment,store_707,0.00010000000000000009,-0.0454
+6,store_719,,Midwest,Treatment,store_719,-9.999999999998621e-05,-0.16390000000000002
+7,store_721,,Midwest,Treatment,store_721,9.999999999999454e-05,-0.3954
+8,store_724,,Midwest,Treatment,store_724,0.00010000000000000009,0.0881
+9,store_727,,Midwest,Treatment,store_727,0.00010000000000005005,-0.0831
+10,store_741,,Midwest,Treatment,store_741,9.999999999999176e-05,-0.4476
+11,store_742,,Midwest,Treatment,store_742,0.00010000000000000009,-0.4133
+12,store_755,,Midwest,Treatment,store_755,-2.7755575615628915e-18,0.03860000000000001
+13,store_767,,Midwest,Treatment,store_767,-0.00010000000000001258,-0.2833
+14,store_769,,Midwest,Treatment,store_769,-0.00010000000000000009,0.026000000000000013
+15,store_596,,West,Treatment,store_596,-0.00010000000000000009,-0.24130000000000001
+16,store_601,,West,Treatment,store_601,0.0,-0.2996
+17,store_687,store_015,Midwest,Control,store_687 <-> store_015,0.0,-0.059199999999999996
+18,store_728,store_015,Midwest,Control,store_728 <-> store_015,0.00020000000000000017,0.17430000000000004
+19,store_597,store_024,Midwest,Control,store_597 <-> store_024,0.0,-0.5154
+20,store_597,store_027,Midwest,Control,store_597 <-> store_027,0.0,-0.5154
+21,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+22,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+23,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+24,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+25,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+26,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+27,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+28,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+29,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+30,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+31,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+32,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+33,store_597,store_024,Midwest,Control,store_597 <-> store_024,0.0,-0.5154
+34,store_597,store_027,Midwest,Control,store_597 <-> store_027,0.0,-0.5154
+35,store_654,store_695,Midwest,Control,store_654 <-> store_695,0.00010000000000000564,-0.3516
+36,store_550,store_695,Midwest,Control,store_550 <-> store_695,-0.00010000000000001396,-0.24540000000000006
+37,store_788,store_696,Midwest,Control,store_788 <-> store_696,9.999999999997789e-05,0.10939999999999998
+38,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+39,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+40,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+41,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+42,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+43,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+44,store_710,store_707,Midwest,Control,store_710 <-> store_707,-1.1102230246251566e-17,0.07790000000000001
+45,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+46,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+47,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+48,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+49,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+50,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+51,store_703,store_719,Midwest,Control,store_703 <-> store_719,-1.2490009027033011e-17,-0.14009999999999997
+52,store_615,store_719,Midwest,Control,store_615 <-> store_719,-9.999999999999662e-05,-0.2544
+53,store_733,store_721,Midwest,Control,store_733 <-> store_721,-1.2490009027033011e-17,0.1887
+54,store_760,store_721,Midwest,Control,store_760 <-> store_721,1.1102230246251566e-17,-0.1662
+55,store_751,store_724,Midwest,Control,store_751 <-> store_724,0.0,-0.17319999999999997
+56,store_150,store_724,Midwest,Control,store_150 <-> store_724,0.0,-0.15360000000000001
+57,store_713,store_727,Midwest,Control,store_713 <-> store_727,3.122502256758253e-18,-0.22269999999999998
+58,store_700,store_727,Midwest,Control,store_700 <-> store_727,0.00020000000000002237,-0.14950000000000002
+59,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+60,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+61,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+62,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+63,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+64,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+65,store_798,store_741,Midwest,Control,store_798 <-> store_741,6.938893903907228e-18,0.2573
+66,store_705,store_742,Midwest,Control,store_705 <-> store_742,5.551115123125783e-18,0.006300000000000009
+67,store_776,store_024,Midwest,Control,store_776 <-> store_024,-9.999999999998899e-05,-0.1304
+68,store_776,store_027,Midwest,Control,store_776 <-> store_027,-9.999999999998899e-05,-0.1304
+69,store_776,store_696,Midwest,Control,store_776 <-> store_696,-9.999999999998899e-05,-0.1304
+70,store_776,store_707,Midwest,Control,store_776 <-> store_707,-9.999999999998899e-05,-0.1304
+71,store_776,store_741,Midwest,Control,store_776 <-> store_741,-9.999999999998899e-05,-0.1304
+72,store_776,store_742,Midwest,Control,store_776 <-> store_742,-9.999999999998899e-05,-0.1304
+73,store_251,store_755,Midwest,Control,store_251 <-> store_755,-1.1102230246251566e-17,-0.032222222222222194
+74,store_577,store_755,Midwest,Control,store_577 <-> store_755,-9.999999999996679e-05,0.0938
+75,store_029,store_767,Midwest,Control,store_029 <-> store_767,9.999999999999731e-05,-0.18770000000000003
+76,store_714,store_767,Midwest,Control,store_714 <-> store_767,9.999999999998343e-05,-0.2752
+77,store_033,store_769,Midwest,Control,store_033 <-> store_769,-0.00019999999999998909,-0.5039
+78,store_636,store_769,Midwest,Control,store_636 <-> store_769,9.999999999998067e-05,-0.26280000000000003
+79,store_594,store_596,West,Control,store_594 <-> store_596,1.1102230246251566e-17,0.0422
+80,store_526,store_596,West,Control,store_526 <-> store_596,9.999999999999176e-05,-0.3311
+81,store_478,store_601,West,Control,store_478 <-> store_601,-2.7755575615628915e-18,-0.013999999999999999
+82,store_527,store_601,West,Control,store_527 <-> store_601,-0.00010000000000000425,-0.11670000000000003
