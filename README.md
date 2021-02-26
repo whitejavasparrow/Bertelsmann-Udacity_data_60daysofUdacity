@@ -365,8 +365,12 @@ Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel
 Hope to learn more in the following days!
 
 ## D59 (2021/02/26)
-- finished A/B testing
+- wrapping up A/B testing
 - started time series forecasting!
+
+Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel @Jessica.Etoh @Smpsnseun.Udacity @susyjam @Vedanth Baliga @Jessica Ch'ng @Ma Yi @MrLeyva @Mark B. @Edgar Chacon @Dinesh @birozso @mubnoor @Priscila Espinoza @Jim Born
+
+Hope to learn more in the following days!
 
 ## D60 (2021/02/27)
 - continued with time series forecasting
