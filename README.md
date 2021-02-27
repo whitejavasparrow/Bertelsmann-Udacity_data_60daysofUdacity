@@ -373,12 +373,13 @@ Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel
 Hope to learn more in the following days!
 
 ## D60 (2021/02/27)
-- continued with time series forecasting
+- continued with time series forecasting. :hourglass_flowing_sand: learning about components in time series (E: error; T: trend; S: seasonality) & difference between mutiplicative and additive terms
+- being honored to be in the first episode for the Podcast :radio: "Decisions & Dreams" with @khanadnanxyz, who shared a really nice line: "The channels belong to everyone, we are there together." :star2: That is how I feel about taking the role as one of the student leaders! Thank you Podcast team for giving us this oppourtunity.
+- Today marks the official 60 for the #60daysofudacity challenge:alphabet-white-exclamation:
 
+I have been blessed to meet many amazing scholars here, and even more I have yet to know more. Thank you @Cindy @Jonathan Papworth @Oluwatosin @Esma @Jim Lorica @MrLeyva @Edgar Chacon @birozso @Karel @Priscila Espinoza @Jessica Ch'ng @Vedanth Baliga @Quyen Nguyen @Nicola Stramka @Samuel Yeboah Boateng @Ma Yi @Frida @susyjam @Prachi Gupta @Gurpreet Kaur @Rebeca Lopes @Ebinbin Ajagun @Charlotte Saunders @Smpsnseun.Udacity @Peace Peters @Temilade Lizzy @Rachel_Kam  @Oluwatosin Olanrewaju @Ashish Kumar Panigrahy @Dongyeun Kum @Toxylee @Vin @Don Angeles@John Analoh @Mark B. @Shamal Nissanka @Esther Kamau @Mahammad Shikhiyev @Jessica.Etoh @ehiz rendezvouz @Yusuf Alma @Gerardo Valencia @mubnoor @Ankita Ghosh and all because these days are warm and enlightening! I hope to send more support and happiness to this wonderful community :blob-sun::thank_you:
 
-Had a few memorable night of knowledge from #Crack-ItTuesday
-
-@Peace Peters @Uchechukwu Azubuko @Dinesh
+Hope to learn more in the following days!
 
 ---
 ## Online meeting sessions
