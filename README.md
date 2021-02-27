@@ -381,6 +381,8 @@ I have been blessed to meet many amazing scholars here, and even more I have yet
 
 Hope to learn more in the following days!
 
+<img src="img/Data.png">
+
 ---
 ## Online meeting sessions
 _**past sessions**_
