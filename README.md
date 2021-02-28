@@ -384,6 +384,14 @@ Hope to learn more in the following days!
 <img src="img/Data.png">
 
 ---
+## D61 (2021/02/28)
+- Had a meeting with #sg_learn_together & #sg_accountability_grp where I had a brief talk about the topic "when language meets data." Thanks @Prachi Gupta for hosting & @Esma brought up discussion about cognitive science, which is a really good point!
+
+Encouraging @Cindy @Rebeca Lopes @Edgar Chacon @Oluwatosin @susyjam @Frida @Samuel Yeboah Boateng @Ma Yi @Dinesh @birozso @Vedanth Baliga @Jyotsna Masand @Karel @Ebinbin Ajagun @Agnes
+
+Hope to learn more in the following days!
+
+---
 ## Online meeting sessions
 _**past sessions**_
 - [#sg_accountability_grp #1]() Dec. 08, 2020 Tue. | 23:30 GMT+8 
