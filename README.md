@@ -141,6 +141,8 @@ The past weekend is full of knowledge and community learning because of the Stud
 
 Encouraging @Serkan KAYA @Ebinbin Ajagun @Agni @Rana Hendawi @Samuel Yeboah Boateng @Ivan Martinovic @Christian @ehiz rendezvouz @Oluwatosin @Ma Yi @Mark B. :slightly_smiling_face: 
 
+<img src="img/badge_study_jam_1.png">
+
 ## D29 (2021/01/26)
 - Catalog project: Learning about the variables.
 - SQL: Learning how to read relationships of tables within a database through the diagram, e.g., what is a crow's foot? :report-footer:
@@ -372,6 +374,10 @@ Encouraging @Esma @Frida @Rebeca Lopes @Oluwatosin @Samuel Yeboah Boateng @Karel
 
 Hope to learn more in the following days!
 
+<img src="img/post_podcast.png">
+
+[Spotify](https://open.spotify.com/show/4tqHmv5HI2OoBWAHU2MMxb) | [Pocket Casts](https://pca.st/1afqlpp7) | [Anchor](https://anchor.fm/decisions--dreams)
+
 ## D60 (2021/02/27)
 - continued with time series forecasting. :hourglass_flowing_sand: learning about components in time series (E: error; T: trend; S: seasonality) & difference between mutiplicative and additive terms
 - being honored to be in the first episode for the Podcast :radio: "Decisions & Dreams" with @khanadnanxyz, who shared a really nice line: "The channels belong to everyone, we are there together." :star2: That is how I feel about taking the role as one of the student leaders! Thank you Podcast team for giving us this oppourtunity.
@@ -381,7 +387,10 @@ I have been blessed to meet many amazing scholars here, and even more I have yet
 
 Hope to learn more in the following days!
 
-<img src="img/Data.png">
+<img src="img/badge_60daysofudacity.png">
+<br/>
+<img src="img/dancing_bears.jpeg">
+<img src="img/celebrating_cat.png">
 
 ---
 ## D61 (2021/02/28)
@@ -424,6 +433,10 @@ _**past sessions**_
 <br/>
 <img src="img/20210117 sg_r_alteryx 2-2.png">
 
+- [study jam 1.0]() Jan. 21, 2021 Sun. | 23:00 GTM+8
+<br/>
+<img src="img/20210121 study_jam_channel_moderators.png">
+
 - [#sg_accountability_grp #4]() Jan. 30, 2021 Sat. | 23:30 GMT+8
 
 - [#Podcast]() Jan. 31, 2021 Fri. | 17:30 GTM+8
@@ -456,10 +469,3 @@ _**past sessions**_
 <img src="img/20210221 #introduction 4-1.png">
 
 _**upcoming sessions**_
-
-
-
-Pre-congrats! :tada::raised_hands::tada: It's only 1 day left!
-Thank you for your encouragement & Amazing work you do! :star-struck::tada:
-
-9:00 AM Feb. closing of mentor-mentee program
