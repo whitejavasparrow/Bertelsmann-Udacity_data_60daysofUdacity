@@ -400,6 +400,16 @@ Encouraging @Cindy @Rebeca Lopes @Edgar Chacon @Oluwatosin @susyjam @Frida @Samu
 
 Hope to learn more in the following days!
 
+## D62 (2021/03/01)
+- preparing for the #mentor_mentee orientation with @Cindy and @Prachi Gupta. They are working hard behind the scenes and I'd like to thank them for being so amazing! :heartbeat:
+- continued with time series analysis slowly but surely. Some keywords are autoregressive and
+ARIMA.
+- Today is a holiday here. :tada: That's why I plan to enjoy the spring!
+
+Encouraging @MrLeyva @Frida @Oluwatosin @birozso @Edgar Chacon @Rebeca Lopes @Smpsnseun.Udacity @Ebinbin Ajagun @Samuel Yeboah Boateng @susyjam @Prachi Gupta@Ma Yi @Vedanth Baliga @Natalie Sanchez
+
+Hope to learn more in the following days!
+
 ---
 ## Online meeting sessions
 _**past sessions**_
