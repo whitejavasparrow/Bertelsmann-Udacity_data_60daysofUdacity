@@ -426,7 +426,7 @@ _**past sessions**_
 
 - [#introduction #1]() Jan. 8, 2021 Fri. | 22:00 GTM+8
 <br/>
-<img src="img/20210108 #introduction 1-6.png">
+<img src="img/20210108 introduction 1-6.png">
 
 - [#sg_r_alteryx #1]() Jan. 10, 2021 Sun. | 6:00 GTM+8
 <br/>
@@ -476,6 +476,12 @@ _**past sessions**_
 
 - [#introduction #4]() Feb. 21, 2021 Sun. | 22:00 GTM+8
 <br/>
-<img src="img/20210221 #introduction 4-1.png">
+<img src="img/20210221 introduction 4-1.png">
+
+- [#student_leaders #2]() Feb. 28, 2021 Sun. | 00:00 GTM+8
+<br/>
+<img src="img/20210228 student_leaders 2.png">
+
+- [#mentor_mentee orientation]() Mar. 2, 2021 Mon. | 01:30 GTM+8
 
 _**upcoming sessions**_
