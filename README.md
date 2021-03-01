@@ -470,7 +470,7 @@ _**past sessions**_
 <br/>
 <img src="img/20210216 mentor_mentee_organizers 2.png">
 
-- [#sg_accountability_grp #6]() Feb. 21, 2021 Sun. | 00:00 GMT+8
+- [#sg_accountability_grp #6]() + [#sg_learn_together]() Feb. 21, 2021 Sun. | 00:00 GMT+8
 
 - [#mentor_mentee_organizers #3]() Feb. 21, 2021 Sun. | 01:30 GMT+8
 
@@ -478,9 +478,11 @@ _**past sessions**_
 <br/>
 <img src="img/20210221 introduction 4-1.png">
 
-- [#student_leaders #2]() Feb. 28, 2021 Sun. | 00:00 GTM+8
+- [#sg_accountability_grp #7]() + [#sg_learn_together]() Feb. 28, 2021 Sun. | 00:00 GMT+8
+
+- [#student_leaders #2]() Mar, 1 2021 Mon. | 00:00 GTM+8
 <br/>
-<img src="img/20210228 student_leaders 2.png">
+<img src="img/20210301 student_leaders 2.png">
 
 - [#mentor_mentee orientation]() Mar. 2, 2021 Mon. | 01:30 GTM+8
 
