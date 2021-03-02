@@ -410,6 +410,15 @@ Encouraging @MrLeyva @Frida @Oluwatosin @birozso @Edgar Chacon @Rebeca Lopes @Sm
 
 Hope to learn more in the following days!
 
+## D63 (2021/03/02)
+- Had an online session for the #mentor_mentee program with @Cindy and @Prachi Gupta! We also had guest mentors and mentees to share their stories with us. Prachi came up with this idea of orientation & Cindy did so amazingly for the speakers!
+- For the topic of time series analysis, I went blog discovery and would like to attach here -> https://robjhyndman.com/hyndsight/
+- Another blog on Tableau -> https://www.tableaufit.com
+
+Encouraging @Frida @MrLeyva @Charlotte Saunders @birozso @susyjam@Oluwatosin @Rebeca Lopes @Jens Gaulke @Aurélie @sooter @Samuel Yeboah Boateng @Christian @Mark B. @Ivan Martinovic @Ebinbin Ajagun @Parul Agarwal@Navjot Singh @Jonathan Papworth @Jim Lorica @James @Ma Yi @Vedanth Baliga @Syed Haider Ali Shah
+
+Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
+
 ---
 ## Online meeting sessions
 _**past sessions**_
