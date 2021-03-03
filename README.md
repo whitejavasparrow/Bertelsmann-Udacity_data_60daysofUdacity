@@ -419,6 +419,16 @@ Encouraging @Frida @MrLeyva @Charlotte Saunders @birozso @susyjam@Oluwatosin @Re
 
 Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 
+## D64 (2021/03/03)
+- checking with @Vedanth Baliga for his workshop during the Study Jam 2.0!
+- continued with time series analysis. :hourglass_flowing_sand:
+- trying to understand the difference between git rebase and git merge & git stash. :confused_dog:
+
+Encouraging @Cindy @MrLeyva @susyjam @Oluwatosin @Rebeca Lopes @Christian @Samuel Yeboah Boateng @Mark B. @Dinesh @Jessica Ch'ng @Ankita Ghosh @Prachi Gupta @Ma Yi @Frida @Charlotte Saunders @birozso @Natalie Sanchez @Abebe Teklu
+
+Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
+
+
 ---
 ## Online meeting sessions
 _**past sessions**_
