@@ -428,6 +428,9 @@ Encouraging @Cindy @MrLeyva @susyjam @Oluwatosin @Rebeca Lopes @Christian @Samue
 
 Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 
+## D65 (2021/03/04)
+
+
 
 ---
 ## Online meeting sessions
