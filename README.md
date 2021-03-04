@@ -429,6 +429,12 @@ Encouraging @Cindy @MrLeyva @susyjam @Oluwatosin @Rebeca Lopes @Christian @Samue
 Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 
 ## D65 (2021/03/04)
+- continued with time series analysis. learning about different methods to account for trend and seasonality.
+- reviewing L1.
+
+Encouraging @Cindy @Esma @Rebeca Lopes @birozso @Vedanth Baliga @Oluwatosin @Jessica Ch'ng@MrLeyva @Mark B. @Charlotte Saunders @Christian @Samuel Yeboah Boateng @Md. Jamal Uddin @Ebinbin Ajagun @Aarthi Alagammai @Mostafa Elseidy @Jens Gaulke @Syed Haider Ali Shah @LauraT @Lisa Prepens @susyjam @Prachi Gupta @Jim Lorica @Ma Yi @Frida
+
+Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 
 ---
 ## Online meeting sessions
