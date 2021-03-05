@@ -436,6 +436,14 @@ Encouraging @Cindy @Esma @Rebeca Lopes @birozso @Vedanth Baliga @Oluwatosin @Jes
 
 Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 
+## D66 (2021/03/05)
+- continued with time series analysis. learning more about Holt-Winters Seasonal Method that accounts for level, trend, and seasonality!
+https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572
+- reviewing L1.
+
+Encouraging @Cindy @Jonathan Papworth @susyjam @Esma @Rebeca Lopes @birozso @Vedanth Baliga @Oluwatosin @Jessica Ch'ng@MrLeyva @Mark B. @Charlotte Saunders @Christian @Samuel Yeboah Boateng @Md. Jamal Uddin @Ebinbin Ajagun @Aarthi Alagammai @Mostafa Elseidy @Jens Gaulke @Syed Haider Ali Shah @LauraT @Lisa Prepens @Prachi Gupta @Jim Lorica @Ma Yi @Frida
+
+Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
 ---
 ## Online meeting sessions
 _**past sessions**_
