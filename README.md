@@ -444,6 +444,16 @@ https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572
 Encouraging @Cindy @Jonathan Papworth @susyjam @Esma @Rebeca Lopes @birozso @Vedanth Baliga @Oluwatosin @Jessica Ch'ng@MrLeyva @Mark B. @Charlotte Saunders @Christian @Samuel Yeboah Boateng @Md. Jamal Uddin @Ebinbin Ajagun @Aarthi Alagammai @Mostafa Elseidy @Jens Gaulke @Syed Haider Ali Shah @LauraT @Lisa Prepens @Prachi Gupta @Jim Lorica @Ma Yi @Frida
 
 Study Jam 2.0 is :sonic:! Hope to learn more in the following days!
+
+## D67 (2021/03/06)
+- continued still [this article](https://towardsdatascience.com/holt-winters-exponential-smoothing-d703072c0572) on Holt-Winters Seasonal Method
+- attended "Making Google Meet better for Speakers" session by @Vedanth Baliga with @Odaliz @Esma @Ebinbin Ajagun @Oluwatosin
+
+Encouraging @Cindy @Esma @Rebeca Lopes @birozso @susyjam @Vin @Oluwatosin @MrLeyva @Samuel Yeboah Boateng @Mark B. @Ebinbin Ajagun @Priscila Espinoza @Oluwatosin Olanrewaju @Carlo Ertola @Ma Yi @Christian @Prachi Gupta @Quyen Nguyen and all!
+
+Study Jam 2.0 is :sonic:! TODAY!
+
+##
 ---
 ## Online meeting sessions
 _**past sessions**_
