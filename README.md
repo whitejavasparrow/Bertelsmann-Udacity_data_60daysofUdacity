@@ -453,7 +453,31 @@ Encouraging @Cindy @Esma @Rebeca Lopes @birozso @susyjam @Vin @Oluwatosin @MrLey
 
 Study Jam 2.0 is :sonic:! TODAY!
 
-##
+## D68 (2021/03/08)
+- We had Study Jam 2.0 this weekend! :study-jam-2:
+- It was a little bit nervous for me to co-host the first session. Big thanks and congrats for @Vedanth Baliga, who did an amazing job as always and the topics covered are so comprehensive, well done Vedanth! :confetti_ball::star-struck:
+- attended sessions & watched recordings. I’d like to thank all speakers who bring forth both hard & soft skills to inspire us and help us grow!
+- did quizzes and being reminded to review foundation course & notes. :stuck_out_tongue:
+- Today is International Women's Day! :bouquet:
+
+Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh @susyjam @Esma @Agnes @Charles Van-Hein Sackey@Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor@Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng @Janelle Hawkes
+
+## D69 (2021/03/09)
+- Reviewing Lesson 2
+- Internet speed is so slow right now :blob_wait_what:
+- Encouraging every one!
+
+## D70 (2021/03/10)
+- Reviewing Lesson 3
+- Started a bit of Data Visualisation with Tableau and encountered a Datasaurus! :shipit:
+- Drawing graphs with same statistics and different graphs http://robertgrantstats.co.uk/drawmydata.html
+
+Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
+
+## D71 (2021/03/11)
+- Reviewing Lesson 3-11
+
+Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
 ---
 ## Online meeting sessions
 _**past sessions**_
