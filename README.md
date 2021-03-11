@@ -478,6 +478,9 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam
 - Reviewing Lesson 3.
 - continued with Data Visualization with Tableau. In both courses, I was able to refresh my learning on linear regression. :)
 
+## D72 (2021/03/12)
+- Read Student Stories, and 
+
 - plan to start Excel Statistics Essential Training: 1 on [LinkedIn](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/what-is-data)
 
 ---
