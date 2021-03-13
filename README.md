@@ -474,15 +474,16 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh @susyja
 
 Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
 
-## D71 & D72 (2021/03/11)
-- Reviewing Lesson 3 & 4.
-- continued with Data Visualization with Tableau! 
+---
+## D1 (2021/03/13)
+- After having rest for a few days, I restarted my #60daysofudacity, and also began my #60daysofmotivation project today!
+- Although today is D1, I already want to reflect on the meaning of "lazy." XD There are two situations:
 
-Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
-## D70 (2021/03/12)
-- Read Student Stories, and 
+(1) You're lying on bed, and then are called lazy by someone.
 
-- plan to start Excel Statistics Essential Training: 1 on [LinkedIn](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/what-is-data)
+(2) You're studying introductory content, and then are called lazy.
+
+In search of some food for thought, here is an article on Medium I'd like to share -> read it [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-post-grad-survival-guide%2Fif-someone-calls-you-lazy-agree-d237db8b9092%3Ffbclid%3DIwAR3KQAowDoB0Hi195Ii3BDtQb1kuj7o-hMOtzhCsyC0_pxJNnb7_WufBaYo&h=AT35NE4qQJKeN8Rt0SOZbltx_X9HCwHBmZLilCDkXp8DCnSuAHCj-0Hca4tN0ldUz7gafnjm1DCH8y4rxSpt25DIM2qRHI3ZpxUwjKTDzDix-xJDJGexd1OBOpNq5n6jixNq5Gj04C8qYTQ).
 
 ---
 ## Online meeting sessions
