@@ -474,11 +474,12 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh @susyja
 
 Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
 
-## D71 (2021/03/11)
-- Reviewing Lesson 3.
-- continued with Data Visualization with Tableau. In both courses, I was able to refresh my learning on linear regression. :)
+## D71 & D72 (2021/03/11)
+- Reviewing Lesson 3 & 4.
+- continued with Data Visualization with Tableau! 
 
-## D72 (2021/03/12)
+Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes
+## D70 (2021/03/12)
 - Read Student Stories, and 
 
 - plan to start Excel Statistics Essential Training: 1 on [LinkedIn](https://www.linkedin.com/learning/excel-statistics-essential-training-1-2/what-is-data)
