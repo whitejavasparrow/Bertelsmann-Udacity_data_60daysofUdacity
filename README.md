@@ -485,6 +485,11 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam
 
 In search of some food for thought, here is an article on Medium I'd like to share -> read it [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-post-grad-survival-guide%2Fif-someone-calls-you-lazy-agree-d237db8b9092%3Ffbclid%3DIwAR3KQAowDoB0Hi195Ii3BDtQb1kuj7o-hMOtzhCsyC0_pxJNnb7_WufBaYo&h=AT35NE4qQJKeN8Rt0SOZbltx_X9HCwHBmZLilCDkXp8DCnSuAHCj-0Hca4tN0ldUz7gafnjm1DCH8y4rxSpt25DIM2qRHI3ZpxUwjKTDzDix-xJDJGexd1OBOpNq5n6jixNq5Gj04C8qYTQ).
 
+## D2 (2021/03/14)
+- 
+
+silence, jealousy, victim mentality
+
 ---
 ## Online meeting sessions
 _**past sessions**_
