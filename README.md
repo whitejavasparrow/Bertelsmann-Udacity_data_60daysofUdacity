@@ -486,11 +486,11 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam
 In search of some food for thought, here is an article on Medium I'd like to share -> read it [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-post-grad-survival-guide%2Fif-someone-calls-you-lazy-agree-d237db8b9092%3Ffbclid%3DIwAR3KQAowDoB0Hi195Ii3BDtQb1kuj7o-hMOtzhCsyC0_pxJNnb7_WufBaYo&h=AT35NE4qQJKeN8Rt0SOZbltx_X9HCwHBmZLilCDkXp8DCnSuAHCj-0Hca4tN0ldUz7gafnjm1DCH8y4rxSpt25DIM2qRHI3ZpxUwjKTDzDix-xJDJGexd1OBOpNq5n6jixNq5Gj04C8qYTQ).
 
 ## D1 (2021/03/19)
-- The Challenge phase of my first Udacity scholarship has drawn an end. It has taught me in so many ways to learn better and become a better version of myself.
-- I will continue keeping it a habit to write down my daily learning in this GitHub repository. After having a rest for some while, today is my D1.
+- The Challenge phase of my first Udacity scholarship has drawn an end. It has taught me in so many ways to learn better and become a better version of myself. I will continue keeping it a habit to write down my daily learning in this GitHub repository. After having a rest for some while, today is my D1.
+- read the introduction chapter of The Art of Statistics. liked the idea that data is imperfect, which makes us all unique.
 - started Microsoft Ignite Data Analyst Challenge. learning about roles in the field of data analysis and the differences between data warehouse and data lake.
 - started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of her 500-day streak!
-- Today's motivation: "Don't let failure go to your heart, and don't let success go to your head."
+- Today's motivation: **"Don't let failure go to your heart, and don't let success go to your head."**
 <br/>
 <img src="img/motivation/20210319.jpg">
 
