@@ -494,7 +494,8 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 <br/>
 <img src="img/motivation/20210319.jpg">
 
-reversed alphabetical order is so hard!
+I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
+
 @Rebeca Lopes @Antonis @susyjam @Ebinbin Ajagun @MrLeyva @Mark B. @Prachi Gupta @Samuel Yeboah Boateng @Agni @Vedanth Baliga @Christian @Md. Jamal Uddin @birozso @Syed Haider Ali Shah @Candy @James Kaoma @Frida @Edgar Chacon @Giulio Baldessari @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Agni @Jens Gaulke @Quyen Nguyen @Oluwatosin @mubnoor @Sarumi Bolatito @Toxylee @Ma Yi @Ankita Ghosh
 
 @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes @Yuhan Zhang @John Analoh @Tharuka @Odaliz @Jens Gaulke @Aastha gautam @Priscila Espinoza @Jennifer Eberechi @Mostafa Elseidy @Ivan... @Jonathan Papworth @James @shield @Uchechi @Ester @Temilade Lizzy @Vin
