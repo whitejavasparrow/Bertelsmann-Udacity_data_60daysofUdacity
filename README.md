@@ -586,4 +586,11 @@ _**past sessions**_
 <br/>
 <img src="img/20210314 introduction 5.png">
 
+<br/>
+<img src="img/data.JPG">
+<br/>
+<img src="img/farewell_by_birozso.png">
+<br/>
+<img src="img/end_of_program_party_by_jamal.png">
+
 _**upcoming sessions**_
