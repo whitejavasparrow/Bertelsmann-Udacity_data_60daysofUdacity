@@ -485,20 +485,23 @@ Encouraging @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam
 
 In search of some food for thought, here is an article on Medium I'd like to share -> read it [here](https://l.facebook.com/l.php?u=https%3A%2F%2Fmedium.com%2Fthe-post-grad-survival-guide%2Fif-someone-calls-you-lazy-agree-d237db8b9092%3Ffbclid%3DIwAR3KQAowDoB0Hi195Ii3BDtQb1kuj7o-hMOtzhCsyC0_pxJNnb7_WufBaYo&h=AT35NE4qQJKeN8Rt0SOZbltx_X9HCwHBmZLilCDkXp8DCnSuAHCj-0Hca4tN0ldUz7gafnjm1DCH8y4rxSpt25DIM2qRHI3ZpxUwjKTDzDix-xJDJGexd1OBOpNq5n6jixNq5Gj04C8qYTQ).
 
-## D1 (2021/03/16)
+## D1 (2021/03/19)
+- The Challenge phase of my first Udacity scholarship has drawn an end. It has taught me in so many ways to learn better and become a better version of myself.
+- I will continue keeping it a habit to write down my daily learning in this GitHub repository. After having a rest for some while, today is my D1.
+- Started Microsoft Ignite Data Analyst Challenge
+- Started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of a 500 streak!
+- Today's motivation: 
+
 reversed alphabetical order is so hard!
 @Rebeca Lopes @Antonis @susyjam @Ebinbin Ajagun @MrLeyva @Mark B. @Prachi Gupta @Samuel Yeboah Boateng @Agni @Vedanth Baliga @Christian @Md. Jamal Uddin @birozso @Syed Haider Ali Shah @Candy @James Kaoma @Frida @Edgar Chacon @Giulio Baldessari @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Agni @Jens Gaulke @Quyen Nguyen @Oluwatosin @mubnoor @Sarumi Bolatito @Toxylee @Ma Yi @Ankita Ghosh
 
 @Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes @Yuhan Zhang @John Analoh @Tharuka @Odaliz @Jens Gaulke @Aastha gautam @Priscila Espinoza @Jennifer Eberechi @Mostafa Elseidy @Ivan... @Jonathan Papworth @James @shield @Uchechi @Ester @Temilade Lizzy @Vin
 
-@Awwal @Balaji Bharadwaj @iip.permana @Mbakisi Dube @Serkan KAYA @Charlotte Saunders @Sumaiya @Vilas @Navjot Singh @Parul Agarwal @Christian Friedrich 
-
-Podcast team @Dongyeun Kum @maibelca
-also I'd like to thank some peers @Jessica Ch'ng and @Jessica.Etoh for my mentioning from time to time. They are just so amazing persons themselves!
-
-from: @Karan R. Edit: Might as well Promote flock! Head on down here -> https://bit.ly/30cZS5K <- to say hello to some familiar faces from this course and be able to keep in contact with them after the impending, inevitable slack shutdown!
+@Awwal @Balaji Bharadwaj @iip.permana @Mbakisi Dube @Serkan KAYA @Charlotte Saunders @Sumaiya @Vilas @Navjot Singh @Parul Agarwal @Christian Friedrich @Dongyeun Kum @maibelca @Jessica Ch'ng @Jessica.Etoh
 
 @Grace.Udacity @Palak.Udacity @Brenda.Udacity @Isabella.Udacity Really sorry I wasn't there for the #GraceDay, but our community managers are the best!
+
+Please join Flock to make sure to stay connected with amazing scholars!  https://bit.ly/30cZS5K
 
 ---
 ## Online meeting sessions
@@ -575,5 +578,9 @@ _**past sessions**_
 <img src="img/20210301 student_leaders 2.png">
 
 - [#mentor_mentee orientation]() Mar. 2, 2021 Mon. | 01:30 GTM+8
+
+- [#introduction #5]() Mar. 14, 2021 Sun. | 22:00 GTM+8
+<br/>
+<img src="img/20210314 introduction 5.png">
 
 _**upcoming sessions**_
