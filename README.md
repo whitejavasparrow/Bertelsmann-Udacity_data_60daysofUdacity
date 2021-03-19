@@ -489,7 +489,7 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - The Challenge phase of my first Udacity scholarship has drawn an end. It has taught me in so many ways to learn better and become a better version of myself.
 - I will continue keeping it a habit to write down my daily learning in this GitHub repository. After having a rest for some while, today is my D1.
 - started Microsoft Ignite Data Analyst Challenge. learning about roles in the field of data analysis and the differences between data warehouse and data lake.
-- Started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of a 500-day streak!
+- started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of her 500-day streak!
 - Today's motivation: "Don't let failure go to your heart, and don't let success go to your head."
 <br/>
 <img src="img/motivation/20210319.jpg">
