@@ -491,6 +491,8 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - Started Microsoft Ignite Data Analyst Challenge
 - Started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of a 500 streak!
 - Today's motivation: 
+<br/>
+<img src="img/motivation/20210319.jpg">
 
 reversed alphabetical order is so hard!
 @Rebeca Lopes @Antonis @susyjam @Ebinbin Ajagun @MrLeyva @Mark B. @Prachi Gupta @Samuel Yeboah Boateng @Agni @Vedanth Baliga @Christian @Md. Jamal Uddin @birozso @Syed Haider Ali Shah @Candy @James Kaoma @Frida @Edgar Chacon @Giulio Baldessari @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Agni @Jens Gaulke @Quyen Nguyen @Oluwatosin @mubnoor @Sarumi Bolatito @Toxylee @Ma Yi @Ankita Ghosh
