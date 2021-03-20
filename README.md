@@ -498,6 +498,7 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 
 ## D2 (2021/03/20)
 - Ch. 1 of The Art of Statistics. learned about positive/negative framing, and how we should distinguish what is "actually dangerous" from what sounds "frightening."
+- Today's motivation: **"Your life is as good as your mindset"**
 <br/>
 <center>
 <img width='250px' src="img/motivation/20210320.jpg">
