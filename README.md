@@ -494,6 +494,10 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 <br/>
 <img src="img/motivation/20210319.jpg">
 
+## D2 (2021/03/20)
+- Ch. 1 of The Art of Statistics. learned about positive/negative framing, and how we should distinguish what is "actually dangerous" from what sounds "frightening."
+
+
 I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
 
 @Rebeca Lopes @Antonis @susyjam @Ebinbin Ajagun @MrLeyva @Mark B. @Prachi Gupta @Samuel Yeboah Boateng @Agni @Vedanth Baliga @Christian @Md. Jamal Uddin @birozso @Syed Haider Ali Shah @Candy @James Kaoma @Frida @Edgar Chacon @Giulio Baldessari @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Agni @Jens Gaulke @Quyen Nguyen @Oluwatosin @mubnoor @Sarumi Bolatito @Toxylee @Ma Yi @Ankita Ghosh
