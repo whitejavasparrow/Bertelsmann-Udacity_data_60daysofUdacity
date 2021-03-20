@@ -492,10 +492,16 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - started learning Spanish, Dutch, and ofc Czech on Duolingo! This is inspired by @Agnes's post in celebration of her 500-day streak!
 - Today's motivation: **"Don't let failure go to your heart, and don't let success go to your head."**
 <br/>
-<img src="img/motivation/20210319.jpg">
+<center>
+<img width='250px' src="img/motivation/20210319.jpg">
+</center>
 
 ## D2 (2021/03/20)
 - Ch. 1 of The Art of Statistics. learned about positive/negative framing, and how we should distinguish what is "actually dangerous" from what sounds "frightening."
+<br/>
+<center>
+<img width='250px' src="img/motivation/20210320.jpg">
+</center>
 
 
 I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
