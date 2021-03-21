@@ -504,6 +504,15 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 <img width='250px' src="img/motivation/20210320.jpg">
 </center>
 
+## D3 (2021/03/21)
+- started "Statistician in R" on Datacamp! finished summary statistics.
+- subscribed to Duolingo Plus because I'm getting a bit addicted XD
+- Today's motivation: **"Reset, refocus, readjust, restart, as many times as you need to!"**
+<br/>
+<center>
+<img width='250px' src="img/motivation/20210321.jpg">
+</center>
+
 
 I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
 
