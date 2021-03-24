@@ -517,25 +517,19 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - took a day off
 
 ## D4 (2021/03/23)
-- 
+- After 3.5 months of learning and growing, I am happy to see the message in my mailbox that I have been selected for the Predictive Analytics for Business Nanodegree Program Scholarship! This learning journey has been a joyful ride with so much kind words and enlightenment for me. Hope to continue learning more with many amazing scholars!
+
+#50000Chances #UdacityTechScholars #PoweredByBertelsmann
+<br/>
+<center>
+<img width='250px' src="img/badge_phaseII.jpg">
+</center>
 
 ## D5 (2021/03/24)
 - Ch. 2 of "The Art of Statistics."
 
 ## D6 (2021/03/25)
 
-
-I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
-
-@Rebeca Lopes @Antonis @susyjam @Ebinbin Ajagun @MrLeyva @Mark B. @Prachi Gupta @Samuel Yeboah Boateng @Agni @Vedanth Baliga @Christian @Md. Jamal Uddin @birozso @Syed Haider Ali Shah @Candy @James Kaoma @Frida @Edgar Chacon @Giulio Baldessari @Smpsnseun.Udacity @Oluwatosin Olanrewaju @Agni @Jens Gaulke @Quyen Nguyen @Oluwatosin @mubnoor @Sarumi Bolatito @Toxylee @Ma Yi @Ankita Ghosh
-
-@Cindy @Jonathan Papworth @birozso @Rachel_Kam @Ankita Ghosh@susyjam @Esma @Agnes @Charles Van-Hein Sackey @Smpsnseun.Udacity @Ankita Ghosh @MrLeyva @Tharuka @Rebeca Lopes@Jennifer Eberechi @Odaliz @Vedanth Baliga @Quyen Nguyen @mubnoor @Oluwatosin @Vin @Prachi Gupta @Jessica Ch'ng @Gurpreet Kaur @tife @Frida@Ma Yi @Mark B. @Sumaiya @Oluwatosin Olanrewaju @Jim Lorica @Christian @Ebinbin Ajagun @Samuel Yeboah Boateng@Janelle Hawkes @Yuhan Zhang @John Analoh @Tharuka @Odaliz @Jens Gaulke @Aastha gautam @Priscila Espinoza @Jennifer Eberechi @Mostafa Elseidy @Ivan... @Jonathan Papworth @James @shield @Uchechi @Ester @Temilade Lizzy @Vin
-
-@Awwal @Balaji Bharadwaj @iip.permana @Mbakisi Dube @Serkan KAYA @Charlotte Saunders @Sumaiya @Vilas @Navjot Singh @Parul Agarwal @Christian Friedrich @Dongyeun Kum @maibelca @Jessica Ch'ng @Jessica.Etoh
-
-@Grace.Udacity @Palak.Udacity @Brenda.Udacity @Isabella.Udacity Really sorry I wasn't there for the #GraceDay, but our community managers are the best!
-
-Please join Flock to make sure to stay connected with amazing scholars!  https://bit.ly/30cZS5K
 
 ---
 ## Online meeting sessions
