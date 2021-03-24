@@ -529,7 +529,7 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 </center>
 
 ## D5 (2021/03/24)
-- Ch. 2 of "The Art of Statistics."
+- Ch. 2 of "The Art of Statistics." 
 
 ## D6 (2021/03/25)
 
