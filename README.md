@@ -513,6 +513,17 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 <img width='250px' src="img/motivation/20210321.jpg">
 </center>
 
+## D3 (2021/03/22)
+- took a day off
+
+## D4 (2021/03/23)
+- 
+
+## D5 (2021/03/24)
+- Ch. 2 of "The Art of Statistics."
+
+## D6 (2021/03/25)
+
 
 I also would like to take this moment for a shout-out to @Jessica Ch'ng and @Jessica.Etoh. She has done so amazingly throughout the past months despite our name confusion. This includes her constant encouragement for me. Thank you! I couldn't have come this far. 😍
 
