@@ -517,12 +517,15 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - took a day off
 
 ## D4 (2021/03/23)
+- unlocked my Duolingo Stories! For Spanish learners like me, there are interactive short dialogues in the Reading, Listening, Speaking modes. I like the idea. :D 
 - After 3.5 months of learning and growing, I am happy to see the message in my mailbox that I have been selected for the Predictive Analytics for Business Nanodegree Program Scholarship! This learning journey has been a joyful ride with so much kind words and enlightenment for me. Hope to continue learning more with many amazing scholars!
 
 #50000Chances #UdacityTechScholars #PoweredByBertelsmann
+- Today's motivation: "
 <br/>
 <center>
 <img width='250px' src="img/badge_phaseII.jpg">
+<img width='250px' src="img/motivation/20210323.jpg">
 </center>
 
 ## D5 (2021/03/24)
