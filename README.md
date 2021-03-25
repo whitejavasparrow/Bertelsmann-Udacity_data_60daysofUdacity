@@ -530,7 +530,7 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 
 ## D5 (2021/03/24)
 - Ch. 2 of "The Art of Statistics." 
-
+- Random Numbers and Probability on DataCamp
 ## D6 (2021/03/25)
 
 
