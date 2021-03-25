@@ -538,7 +538,13 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 </center>
 
 ## D6 (2021/03/25)
-
+- Ch. 2 of "The Art of Statistics." learning about different types of population, e.g., literal, virtual, metaphorical population
+- Normal distribution on DataCamp
+- Today's motivation is conveyed through an illustration of women in tech!
+<br/>
+<center>
+<img width='250px' src="img/motivation/20210325.jpg">
+</center>
 
 ---
 ## Online meeting sessions
