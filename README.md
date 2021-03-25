@@ -531,6 +531,12 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 ## D5 (2021/03/24)
 - Ch. 2 of "The Art of Statistics." 
 - Random Numbers and Probability on DataCamp
+- Today's motivation is conveyed through an illustration of women in tech!
+<br/>
+<center>
+<img width='250px' src="img/motivation/20210324.jpg">
+</center>
+
 ## D6 (2021/03/25)
 
 
