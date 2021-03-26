@@ -546,6 +546,10 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 <img width='250px' src="img/motivation/20210325.jpg">
 </center>
 
+## D7 (2021/03/26)
+- DataCamp: Correlation and experimental design & The binomial distribution
+- read articles about probability distribution & transformation in LR
+
 ---
 ## Online meeting sessions
 _**past sessions**_
