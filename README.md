@@ -550,6 +550,10 @@ In search of some food for thought, here is an article on Medium I'd like to sha
 - DataCamp: Correlation and experimental design & The binomial distribution
 - read articles about probability distribution & transformation in LR
 
+## D8 (2021/03/27)
+- DataCamp: Laws of probability
+- Submission and resubmission of project 1 for Udacity ND!
+
 ---
 ## Online meeting sessions
 _**past sessions**_
